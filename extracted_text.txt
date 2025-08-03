@@ -1,0 +1,1673 @@
+Protocol Investigator Agreement
+
+I agree:
+
+To conduct the study in compliance with this protocol, any future protocol amendments, with the terms of the clinical trial agreement and with any other study conduct procedures and/or study conduct documents provided by GSK.
+
+To assume responsibility for the proper conduct of the study at this site.
+
+That I am aware of and will comply with Good Clinical Practise (GCP) and all applicable regulatory requirements.
+
+That I will comply with the terms of the site agreement.
+
+To comply with local bio-safety legislation.
+
+To ensure that all persons assisting me with the study are adequately informed about the GSK study intervention and other study-related duties and functions as described in the protocol.
+
+To supervise any individual or party to whom I have delegated study-related duties and functions conducted at the study site.
+
+To ensure that any individual or party to whom I have delegated study-related duties and functions conducted at the study site are qualified to perform those study-related duties and functions.
+
+To acquire the reference ranges for laboratory tests performed locally and, if required by local regulations, obtain the laboratory’s current certification or Quality Assurance procedure manual.
+
+To ensure that no clinical samples (including serum samples) are retained on-site or elsewhere without the approval of GSK and the express physical and/or digital informed consent of the participant.
+
+To perform no biological assays on the clinical samples other than those described in the protocol or its amendment(s).
+
+To co-operate with representative(s) of GSK in the monitoring and data management processes of the study with respect to data entry and resolution of queries about the data.
+
+To have control of all essential documents and records generated under my responsibility before, during, and after the study.
+
+That I have been informed that certain regulatory authorities require the Sponsor to obtain and supply, as necessary, details about the Investigator(s)’ ownership interest in the Sponsor or the study intervention(s), and more generally about their financial ties with the Sponsor. GSK will use and disclose the information solely for the purpose of complying with regulatory requirements.
+
+Hence, I:
+
+Agree to supply GSK with any necessary information regarding ownership interest and financial ties (including those of my spouse and dependent children).
+
+Agree to promptly update this information if any relevant changes occur during the study and for 1 year following completion of the study.
+
+Agree that GSK may disclose any information about such ownership interests and financial ties to regulatory authorities.
+
+Agree to provide GSK with an updated Curriculum Vitae and all other documents required by regulatory agencies for this study.
+
+PROTOCOL AMENDMENT SUMMARY OF CHANGES TABLE
+
+Summary of Changes
+
+TABLE OF CONTENTS
+
+PAGE
+
+LIST OF ABBREVIATIONS AND DEFINITIONS OF TERMS	12
+
+1.	PROTOCOL SUMMARY	17
+
+1.1.	Synopsis	17
+
+1.2.	Schema	22
+
+1.3.	Schedule of activities (SoA)	23
+
+2.	INTRODUCTION	28
+
+2.1.	Study rationale	28
+
+2.2.	Background	29
+
+2.3.	Benefit/risk assessment	30
+
+2.3.1.	Risk assessment	30
+
+2.3.2.	Benefit assessment	38
+
+2.3.3.	Overall benefit-risk conclusion	38
+
+3.	OBJECTIVES, ENDPOINTS AND ESTIMANDS	39
+
+4.	STUDY DESIGN	40
+
+4.1.	Overall design	40
+
+4.2.	Scientific rationale for study design	41
+
+4.2.1.	Participant input into design	42
+
+4.3.	Justification for dose	42
+
+4.4.	End-of-study definition	42
+
+5.	STUDY POPULATION	42
+
+5.1.	Inclusion criteria	43
+
+5.2.	Exclusion criteria	44
+
+5.3.	Lifestyle considerations	45
+
+5.3.1.	Meals and dietary restrictions	45
+
+5.3.2.	Caffeine, alcohol, and tobacco	45
+
+5.3.3.	Activity	45
+
+5.4.	Screen failures	46
+
+5.5.	Criteria for temporarily delaying enrolment/administration of study intervention	46
+
+6.	STUDY INTERVENTION(S) AND CONCOMITANT THERAPY	46
+
+6.1.	Study intervention(s) administered	46
+
+6.2.	Preparation, handling, storage, and accountability	47
+
+6.3.	Assignment to study intervention	47
+
+6.4.	Blinding/Masking	48
+
+6.5.	Study intervention compliance	48
+
+6.6.	Dose modification	48
+
+6.7.	Continued access to study intervention after the end of the study	49
+
+6.8.	Treatment of overdose	49
+
+6.9.	Prior and concomitant therapy	49
+
+7.	DISCONTINUATION OF STUDY INTERVENTION AND PARTICIPANT DISCONTINUATION/WITHDRAWAL	50
+
+7.1.	Discontinuation of study intervention	50
+
+7.1.1.	QTc Stopping criteria	51
+
+7.2.	Participant discontinuation/withdrawal from the study	51
+
+7.3.	Lost to follow-up	53
+
+8.	STUDY ASSESSMENTS AND PROCEDURES	53
+
+8.1.	Administrative procedures	54
+
+8.1.1.	Collection of demographic data	54
+
+8.1.2.	Medical History	54
+
+8.2.	Efficacy and/or immunogenicity assessments	54
+
+8.3.	Safety assessments	54
+
+8.3.1.	Physical examination	54
+
+8.3.2.	Vital signs	55
+
+8.3.3.	Electrocardiograms	55
+
+8.3.4.	Clinical Safety laboratory tests	56
+
+8.3.5.	Pregnancy testing	58
+
+8.3.6.	Study stopping rules, Safety monitoring committee	58
+
+8.4.	Adverse Events (AEs) serious adverse events (SAEs), and other safety reporting	59
+
+8.4.1.	Time period and frequency for collecting AE, SAE, and other safety information	60
+
+8.4.2.	Method of detecting AEs and SAEs	60
+
+8.4.3.	Follow-up of AEs and SAEs	60
+
+8.4.4.	Regulatory reporting requirements for SAEs	60
+
+8.4.5.	Pregnancy	61
+
+8.4.6.	Cardiovascular and death events	61
+
+8.4.7.	Disease-related events and/or disease-related outcomes not qualifying as AEs or SAEs	62
+
+8.4.8.	Contact information for reporting SAEs, pregnancies and study holding rules	62
+
+8.4.9.	Participant Card	62
+
+8.5.	Pharmacokinetics	62
+
+8.6.	Pharmacodynamics	63
+
+8.7.	Genetics	63
+
+8.8.	Biomarkers	63
+
+8.9.	Immunogenicity assessments	63
+
+8.10.	Health economics or medical resource utilization and health economics	63
+
+9.	STATISTICAL CONSIDERATIONS	63
+
+9.1.	Statistical hypothesis/hypotheses/comparisons	63
+
+9.1.1.	Multiplicity Adjustment	63
+
+9.2.	Analysis sets	64
+
+9.3.	Statistical analyses	64
+
+9.3.1.	General considerations/definitions	64
+
+9.3.2.	Primary endpoint analysis	65
+
+9.3.3.	Secondary endpoint(s)/estimand(s) analyses	66
+
+9.4.	Interim analyses	67
+
+9.5.	Sample size determination	67
+
+10.	SUPPORTING DOCUMENTATION AND OPERATIONAL CONSIDERATIONS	68
+
+10.1.	Appendix 1: Regulatory, ethical, and study oversight considerations	68
+
+10.1.1.	Regulatory and ethical considerations	68
+
+10.1.2.	Financial disclosure	68
+
+10.1.3.	Informed consent process	69
+
+10.1.4.	Recruitment strategy	69
+
+10.1.5.	Data protection	70
+
+10.1.6.	Committees structure	71
+
+10.1.7.	Dissemination of Clinical Study Data	71
+
+10.1.8.	Data quality assurance	71
+
+10.1.9.	Source documents	73
+
+10.1.10.	Study and site start and closure	73
+
+10.1.11.	Publication policy	74
+
+10.2.	Appendix 2: Clinical laboratory tests	74
+
+10.3.	Appendix 3: AEs and SAEs: Definitions and procedures for recording, evaluating, follow-up, and reporting	76
+
+10.3.1.	Definition of AE	76
+
+10.3.2.	Definition of SAE	77
+
+10.3.3.	Definition of CV events	78
+
+10.3.4.	Definition of TEAE	79
+
+10.3.5.	Recording, assessment and follow-up of AE, SAE, and pregnancies	79
+
+10.4.	Appendix 4: Contraceptive and barrier guidance	83
+
+10.4.1.	Definitions	83
+
+10.4.2.	Contraception guidance	84
+
+10.5.	Appendix 5: Protocol Elements for Redaction	85
+
+10.5.1.	Information about Sponsor Signatory and Medical Monitor	85
+
+10.5.2.	List of Study Staff	85
+
+11.	REFERENCES	86
+
+12.	APPENDIX	88
+
+LIST OF TABLES
+
+PAGE
+
+Table 1	Interval between study visits	23
+
+Table 2	Schedule of Activities – Overview Across Visit Days	25
+
+Table 3	Schedule of Activities – Details of Paroxetine Concentrations /ECG Assessment Visit Day Activities	29
+
+Table 4	Study intervention administered.	48
+
+Table 5	Protocol-required safety laboratory tests	59
+
+Table 6	Timeframes for submitting SAE, pregnancy and other events reports to GSK	63
+
+Table 7	Contact information for reporting SAEs, pregnancies and study holding rules	64
+
+Table 8	Protocol-required safety laboratory tests	77
+
+Table 9	Exclusion Criteria Allowed for Rescreening	90
+
+Table 10	Sample Size Sensitivity without dropout	92
+
+Table 11	Sample Size Sensitivity after drop-out	93
+
+LIST OF FIGURES
+
+Figure 1	Study design overview	25
+
+LIST OF ABBREVIATIONS AND DEFINITIONS OF TERMS
+
+PROTOCOL SUMMARY
+
+Synopsis
+
+Protocol Title:
+
+An Open-Label, Single Arm, Dose Escalating Concentration-QT Study to Investigate the Cardiac Effects and Safety of Paroxetine in Healthy Adult Participants
+
+Brief Title:
+
+Concentration-QT Study of Paroxetine in Healthy Adults.
+
+Rationale:
+
+Paroxetine (Seroxat) is a selective serotonin reuptake inhibitor indicated for the treatment of major depressive disorder (MDD), obsessive compulsive disorder (OCD), panic disorder with or without agoraphobia, social and generalised anxiety disorders and post-traumatic stress disorder (PTSD).
+
+In vitro studies have shown that paroxetine can block human Ether-à-go-go-Related Gene (hERG) channels, which in turn can cause QT prolongation. However, clinical reports evaluating an association between paroxetine exposure and corrected QT interval (QTc) prolongation are limited and vary in their conclusions. Based on the available data from published literature, GSK and EudraVigilance safety databases and clinical studies, it has been concluded there is some basis for suspicion of an association of QT prolongation with paroxetine, but current evidence does not confirm a causal relationship (GSK document 2021N481496). As there was no requirement for the evaluation of the potential effects on QT interval at the time of approval, no thorough QT (TQT) study has yet been performed with paroxetine. There is, however, some QTc data from automated readings from a pharmacokinetic (PK) interaction study between pimozide and paroxetine, where paroxetine was dosed up to the maximum recommended dose in the label of 60 mg once daily (q.d.). This study showed no difference between QTc at baseline and at the 60 mg once daily dose, although the electrocardiograms (ECGs) in this study were read automatically and performed at paroxetine trough concentrations corresponding to a 60 mg once daily dose, instead of at peak concentrations (GSK document HM2004/00372/01).
+
+Following a careful assessment of the suitable approaches to characterise the magnitude of a potential QT prolonging effect, a concentration-QT (C-QT) study was determined to be appropriate to further investigate the potential risk. This approach is in line with the updated International Council on Harmonisation (ICH) guidance, which indicates that a C-QT study may be sufficient to address the cardiac effects questions when the risk of such effects is considered low. In light of the long history of paroxetine use and the limited evidence for QT prolongation from available sources, a C-QT study was deemed adequate to address the cardiac effects of paroxetine. In a study by Okayasu et al. 2012, risk of QTc prolongation seemed to be lower with paroxetine compared to other SSRIs (Okayasu et al. 2012). A systematic review of literature showed that there was likely no effect of paroxetine on QTc (Funk et al. 2013).
+
+A C-QT study design allows the assessment of cardiac effects of a drug and may be more sensitive to detect any correlation between drug exposure and cardiac effects than a standard TQT study, as the C-QT study takes into account drug concentrations where a TQT study does not.  In contrast, a TQT study is powered to detect a QTc increase > 10 millisecond (msec) in comparison against a placebo and uses a positive control. The current C-QT study will employ a titration design, with escalating doses in steps of 20 mg, up to 60 mg paroxetine q.d., which corresponds to the maximum recommended therapeutic paroxetine dose (as per GSK Seroxat Summary of product characteristics [SmPC] 2022).
+
+Objectives, Endpoints, and Estimands:
+
+* Laboratory tests will include full blood count, INR, PT, PTT, renal (Na+, K+, Cl-, creatinine) and hepatic (AST, ALT) markers
+
+Primary estimand
+
+The primary question of interest: Is there a clinically relevant cardiac effect of paroxetine at the maximum recommended therapeutic dose, as measured by an increase in QTc from 12-lead electrocardiogram (ECG)?
+
+The estimand is described by the following attributes:
+
+Population: Healthy participants of age 18 to 65 years
+
+Treatment condition: Dose up titration of paroxetine doses of 20, 40 and 60 mg
+
+Endpoint: Change in QTc from baseline (ΔQTc)
+
+Summary measure: The upper limit of the90% confidence interval (CI) of model-predicted ΔQTc at the geometric mean steady-state Cmax of the 60 mg paroxetine dose
+
+Intercurrent events:
+
+Treatment discontinuation due to any reason - While on-treatment strategy will be applied to address this intercurrent event.
+
+Any events affect the drug absorption (1 hour) – Treatment Policy strategy will be applied to address this intercurrent event.
+
+Rationale for estimand:
+
+Interest lies in establishing the relationship between ΔQTc and paroxetine concentrations (Cmax) while the participant is exposed to paroxetine as planned, i.e., prior to the discontinuation of the treatment.
+
+Interest lies in the overall relationship between the ΔQTc and paroxetine concentrations, not with dose - therefore even though the concentration for a dose is affected, the data are still relevant even when there is an inaccuracy in dosing.
+
+If this summary measure is ≥10 msec, additional summary measure may be generated at the geometric mean Cmax of the 40 mg dose. Additionally, another estimand might need to be evaluated.
+
+Refer to Section 9.3.2 for more details.
+
+Secondary estimands
+
+Secondary estimands address all other safety and tolerability findings.
+
+The estimand is described by the following attributes:
+
+Population: Healthy participants of age 18 to 65 years
+
+Treatment condition: Dose up and down titration of paroxetine doses of 20, 40 and 60 mg
+
+Endpoint:
+
+Occurrence of adverse events (AEs) and serious adverse events (SAEs)
+
+Changes in vital signs (blood pressure, heart rate and oral body temperature) from baseline
+
+Changes in haematological and clinical laboratory tests from baseline
+
+Summary measure: Proportions for AEs and SAEs and means of the change from baselines for vital signs, haematological, and clinical laboratory across all dose levels
+
+Intercurrent events: Study intervention discontinuation due to any reason – treatment policy strategy will be applied for this intercurrent event.
+
+Rationale for Estimand: Safety data will be monitored throughout the study after the start of study intervention. There is interest in evaluating and reporting safety events regardless of whether participants discontinued study intervention.
+
+Overall Design:
+
+This is an open-label, dose-titration, single arm, single centre study of paroxetine conducted to investigate the cardiac effects, safety and tolerability of paroxetine in healthy adult participants.
+
+At least 36 participants and no more than 40 healthy participants with no history of cardiac abnormalities or mood disorders will be enrolled. All eligible participants will receive paroxetine titrated to a dose of 60 mg once daily at increments of 20 mg per week.
+
+All participants will attend a study site visit at Screening (Visit 1: -28 to -31 days to 31 days), baseline (pre-dose) assessments and first paroxetine administration of 20 mg once daily (Visit 2: Day 1), serial ECG and paroxetine concentration measurements (Visit 3, Day 7) and dose escalation to 40 mg once daily (Visit 3: Day 8), serial ECG and paroxetine concentration measurements at the 40 mg dose (Visit 4, Day 14) and dose escalation to 60 mg once daily (Visit 4, Day 15), serial ECG and paroxetine concentration measurements (Visit 5, Day 21), and the Exit visit (Visit 6, up to 14 days after last 20 mg dose). Tapering from 60 to 40 mg once daily, 40 to 20 mg once daily, and 20 mg once daily to no dose will occur at home. Unplanned visits (if needed) will be scheduled for participants who needs to visit to clinic due to AEs during home dosing or required to start intermediate tapering dose of 10 mg to be started (for both clinic and home dosing) during the treatment period.
+
+During home dosing participants will be interviewed remotely via video call to confirm dosing compliance and have daily follow-ups. Paroxetine plasma concentrations will be collected as detailed in SOA.
+
+Number of Participants:
+
+The number of participants was selected based on the required variability in paroxetine concentrations to assess the cardiac effects. At least 36 participants and no more than 40 healthy participants, men or non-pregnant women, aged 18 to 65 years will be enrolled. This number, in combination with the 3 dose titration steps, is expected to result in a sufficiently wide range of paroxetine concentrations to cover those typically observed in a real-world clinical setting.
+
+In addition, a previous pharmacokinetics (PK) drug-drug interaction study of paroxetine and pimozide in 40 healthy subjects used a dose titration up to 60 mg once daily in intervals of 20 mg per 5 days (GSK document HM2004/00372/01). Of these 40 subjects, 33 subjects had evaluable QTc data at the 60 mg dose. Although 11 subjects dropped out in total by the end of the study, approximately half of those dropouts were in relation to the combination of the two investigated compounds which were found to interact. This study showed that the 60 mg once daily dose can be achieved, at the expected rate of titration, without prohibitive dropout rates. The current titration schedule increases the time stayed at the same dose to 7 days to improve participant retention.
+
+A Monte Carlo simulation analysis was used to determine the probability of the 90% upper limit of the CI of the ΔQTC at the geometric mean of the 60 mg dose encompassing the 10 msec cut-off value. Based on this simulation approach, it is expected that under the assumption of no true effect of paroxetine on QTc at the 60 mg dose, the expected probability of incorrectly detecting an effect (90% upper limit of the CI ≥10 msec) is <1% (false positive) with the inclusion of 36 participants. In case the true effect is 5 msec, the expected probability of a false positive is <2%. When the true effect is 10 msec, the expected probability of correctly determining a QTc prolongating effect is approximately 82%. For further details, see Section 9.5.
+
+The sensitivity of missing data was also assessed. With 20% drop out at the 40 mg dose and another 25% drop out at the 60 mg dose (in addition to the drop out at the 40 mg dose) the expected probability of incorrectly detecting an effect (90% upper limit of the CI 10 msec) for 36 participants is 1% (false positive) when the true effect is null. The expected probability of a false positive is 5% if the true effect is 5 msec. The expected probability of correctly determining a QTc prolonging effect is approximately 85% when the true effect is 10 msec.
+
+Note: "Enrolled" means a participant, agrees to participate in a clinical study following completion of the informed consent process. Potential participants who are screened for the purpose of determining eligibility for the study, but do not participate in the study, are not considered enrolled, unless otherwise specified by the protocol.
+
+Table 1	Interval between study visits
+
+Intervention Groups and Duration:
+
+All participants will receive active treatment with paroxetine tablets once daily with titration steps every week over a maximum treatment period of 3 weeks. This is followed by tapering over the subsequent period of 10 days:
+
+Days 1-7: 20 mg once daily
+
+Days 8-14: 40 mg once daily
+
+Days 15-21: 60 mg once daily
+
+Days 22-26: 40 mg once daily
+
+Days 27-31: 20 mg once daily. If participants are not able to withdraw from 20 mg once daily directly due to withdrawal effects, an additional tapering dose step of 10 mg once daily may be given for 5 days. Unplanned visits (if needed) will be scheduled for participants who need to visit to clinic due to AEs during home dosing or required to start intermediate tapering dose of 10 mg to be started (for both clinic and home dosing) during the treatment period.
+
+Day 32 (or 37) onwards: complete stop of paroxetine
+
+Data Monitoring/Other Committee:
+
+An Independent Data Monitoring Committee (IDMC) is not required for this study.
+
+Schema
+
+The study design schema is presented in Figure 1.
+
+Figure 1	Study design overview
+
+Abbreviations: ECG = Electrocardiogram
+
+Schedule of activities (SoA)
+
+Table 2	Schedule of Activities – Overview Across Visit Days
+
+Abbreviations: AE, adverse event; C-SSRS, Columbia suicide severity rating scale; ECG, electrocardiogram; eCRF, electronic case report form; SAE, serious adverse event.
+
+All participants will need to attend a clinic visit at Screening (Visit 1), Baseline (Visit 2, Day-1) and first 20 mg dose (Visit 2, Day 1), assessment at 20 mg steady-state dose (Visit 3, Day 7), first 40 mg dose (Visit 3, Day 8), assessment at 40 mg steady-state dose (Visit 4, Day 14), first 60 mg dose (Visit 4, Day 15) assessment at 60 mg steady-state dose and exit visit (Visit 5, Day 21) . They will also attend the clinic for the final follow-up visit (Visit 6). Participants will receive a follow-up video-call from the unit on all other dosing days outside of the clinic and the 3 days after last dose, and will take tablets under supervision of clinical staff over video-call.
+
+Informed consent and eligibility criteria assessment data will all be captured on site. Informed consent must be obtained prior to starting screening procedures.
+
+Height will be measured at Screening only. Complete physical examination will be performed at Screening and final Follow-Up Visit, and brief physical examination at all further visits
+
+Participants will arrive at clinic in the evening (~20:00 PM) before the visit day (at Baseline [Day -1], Visit 2 [Day 6], Visit 4 [Day 13], and Visit 5 [Day 20]).
+
+Participants need to come in the evening on Day -2 and stay overnight for procedures on Day -1.
+
+On Visit 3 (Day 7), 4 (Day 14) and 5 (Day 21), the current (at that time) dose of paroxetine will be taken by the participant under supervision of staff.
+
+For Study Days 1 (Visit 2, 20 mg), Day 8 (Visit 3, 40 mg) and Day 15 (Visit 4, 60 mg), the participant will take the first dose of the next dose level (20, 40 and 60 mg respectively) under supervision of staff, remaining under observation for 3 hours post-dose and will be discharged afterwards.
+
+SAEs must be collected from signing of informed consent if considered related to study procedures.
+
+Vital sign measurements will include oral body temperature, systolic and diastolic blood pressure (BP), and pulse rate. Triplicate BP measurements will be performed in supine position at Screening only.
+
+Vitals, laboratory assessments (coagulation parameters, haematology with differential, clinical and liver chemistry, pregnancy test, and paroxetine concentrations samples) and ECG data will all be captured at visits on site. During the treatment period, all laboratory samples and vitals (including one paroxetine concentration sample) should be obtained pre-dose.
+
+All ECGs will be performed in triplicate collected within 5 min at each timepoint. ECG triplicates will be performed once at Screening (Visit 1), and at Follow-Up Visit and at discontinuation or withdrawal visits. At Visits 2 (Day -1), 3 (Day 7), 4 (Day 14), and 5 (Day 21) ECG triplicates will be performed 15 min pre-dose (-0.25 h) and post-dose at the following timepoints 1, 2, 3, 4, 4.5, 5, 5.5, 6, 8, 10, 12h. Each ECG triplicates will be combined with paroxetine concentration assessment. Paroxetine concentrations at Visits 3 (Day 7), 4 (Day 14), and 5 (Day 21) will be procured at the following timepoints: -0.25, 1, 2, 3, 4, 4.5, 5, 5.5, 6, 8, 10, 12 h. One sample will be collected for paroxetine concentrations on Day -1 at 0.25h (pre-dose). The paroxetine dose should be taken at the same clock time each time, at a time approximately between 07:00-010:00 (7to 10 am). When scheduled for the same time, ECGs should be performed before blood sampling to avoid impact on ECG parameters.
+
+.
+
+At Visits 2 (Day -1), 3 (Day 7), 4 (Day 14), and 5 (Day 21), follow-up visit and at discontinuation or withdrawal visits, serial ECG review will be performed by Mortara system
+
+Negative urine pregnancy test result must be confirmed prior to dosing in female participants of reproductive potential. If a urine test cannot be confirmed as negative (e.g., an ambiguous result), a serum pregnancy test is required. In such cases, the participant must be excluded from participation if the serum pregnancy result is positive.
+
+FSH test be performed for postmenopausal women only
+
+COVID-19 testing will be performed as per site practice
+
+Participants will be discharged from the clinic 3 hours after the morning dose on Study Days 1, 8, and 15 (Visit 2, 3, 4) to subsequently take paroxetine doses at home until the next Visits in clinic.
+
+Participants will get discharge on either Day 21 or Day 22 (may stay overnight) as per the convenience.
+
+The date and time of the administration of study intervention will be recorded in the eCRF. N.B. participants will be provided with the required tablets for dosing up to the next visit. Participants will take the tablet(s) under supervision when in the clinic, and under video-call supervision when outside the clinic.
+
+Table 3	Schedule of Activities – Details of Paroxetine Concentrations /ECG Assessment Visit Day Activities
+
+Abbreviations: AE: adverse event, ECG: electrocardiogram, PK: pharmacokinetic, SAE: serious adverse event.
+
+Vital sign measurements will include oral body temperature, systolic and diastolic blood pressure, and pulse rate. Triplicate BP measurements will be performed in supine position at Screening only.
+
+All ECGs will be performed in triplicate collected within 5 min at each timepoint. ECG triplicates will be performed once at Screening (Visit 1), and at Follow-Up Visit and at discontinuation or withdrawal visits. At Visits 2 (Day -1), 3 (Day 7), 4 (Day 14), and 5 (Day 21) ECG triplicates will be performed 15 min pre-dose (-0.25 h) and post-dose at the following timepoints 1, 2, 3, 4, 4.5, 5, 5.5, 6, 8, 10, 12h. Each ECG triplicates will be combined with paroxetine concentration assessment. Paroxetine concentrations at Visits 3 (Day 7), 4 (Day 14), and 5 (Day 21) will be procured at the following timepoints: -0.25, 1, 2, 3, 4, 4.5, 5, 5.5, 6, 8, 10, 12 h. The paroxetine dose should be taken at the same clock time each time, at a time between 08:00-09:00 (8 to 9 am). When scheduled for the same time, ECGs should be performed before blood sampling to avoid impact on ECG parameters.
+
+Vitals, and ECG data will all be captured at visits on site. During the treatment period, all laboratory samples (including one PK sample) should be obtained pre-dose.
+
+For Study Days 1 (Visit 2), Day 8 (Visit 3) and Day 15 (Visit 4), participants will take the 20, 40 and 60 mg dose under supervision in the clinic. This is on the day after the paroxetine concentration and ECG assessments. Participants will get discharged in 27 ± 3 hours post dose.
+
+INTRODUCTION
+
+Study rationale
+
+Paroxetine (Seroxat) is a selective serotonin reuptake inhibitor indicated for the treatment of major depressive disorder (MDD), obsessive compulsive disorder (OCD), panic disorder with or without agoraphobia, social and generalised anxiety disorders and post-traumatic stress disorder (PTSD).
+
+In vitro studies have shown that paroxetine can block human Ether-à-go-go-Related Gene (hERG) channels, which in turn may cause QT prolongation. However, clinical reports evaluating an association between paroxetine exposure and QTc prolongation are limited and vary in their conclusions. Based on the available data from published literatures, GSK and EudraVigilance safety databases and clinical studies, it has been concluded that there is some basis for suspicion of an association of QT prolongation with paroxetine, but current evidence does not confirm a causal relationship (GSK document 2021N481496). As there was no requirement for the evaluation of the potential effects on QT interval at the time of approval, no thorough QT (TQT) study has yet been performed with paroxetine. There is, however, some QTc data from automated readings from a pharmacokinetic (PK) interaction study between pimozide and paroxetine, where paroxetine was dosed up to the maximum recommended dose in the label of 60 mg once daily (q.d.). This study showed no difference between QTc at baseline and at the 60 mg once daily dose, although the electrocardiograms (ECGs) in this study were read automatically and performed at paroxetine trough concentrations corresponding to a 60 mg once daily dose, instead of at peak concentrations (GSK document HM2004/00372/01).
+
+Following a careful assessment of the suitable approaches to characterise the magnitude of a potential QT prolonging effect, a concentration-QT (C-QT) study was determined to be appropriate to further investigate the potential risk. This approach is in line with the updated International Council on Harmonisation (ICH) guidance, which indicates that a C-QT study may be sufficient to address the cardiac effects questions when the risk of such effects is considered low. In light of the long history of paroxetine use and the limited evidence for QT prolongation from available sources, a C-QT study was deemed adequate to address the cardiac effects of paroxetine. In a study by Okayasu et al. 2012, risk of QTc prolongation seemed to be lower with paroxetine compared to other SSRIs (Okayasu et al. 2012). A systematic review of literature showed that there was likely no effect of paroxetine on QTc (Funk et al. 2013).
+
+A C-QT study design allows the assessment of cardiac effects of a drug and may be more sensitive to detect any correlation between drug exposure and cardiac effects than a standard TQT study, as the C-QT study takes into account drug concentrations where a TQT study does not.  In contrast, a TQT study is powered to detect a QTc increase > 10 millisecond (msec) in comparison against a placebo, and uses a positive control. The current C-QT study will employ a titration design, with escalating doses in steps of 20 mg, up to 60 mg paroxetine q.d., which corresponds to the maximum recommended therapeutic paroxetine dose (as per GSK Seroxat SmPC 2022).
+
+Background
+
+Paroxetine is a selective serotonin (5HT) reuptake inhibitor indicated for the treatment of MDD, OCD, panic disorder with or without agoraphobia, social anxiety disorder, generalised anxiety disorders and PTSD. Its efficacy and safety as an antidepressant have also been demonstrated in a range of co-morbidities associated with conditions such as anxiety, and heart disease.
+
+Paroxetine is extensively distributed beyond the plasma compartment in both animals and man. In pigmented rats and mice, trace amounts of drug-related material are taken up reversibly by melanin-containing tissues. Studies in humans have demonstrated that the systemic availability of paroxetine may be modestly enhanced by hepatic enzyme inhibition and reduced by hepatic enzyme induction.
+
+Paroxetine has been shown to be a potent and highly selective inhibitor of 5-HT uptake mechanisms in in vitro, ex vivo pharmacological studies and biochemical test in animals. Paroxetine has also demonstrated inhibition of 5-HT uptake into platelets after doses of 30 mg daily to human but did not affect noradrenaline uptake as assessed by the tyramine pressure test. It was well tolerated by the cardiovascular (CV) system and was, qualitatively and quantitatively, less cardiotoxic than amitriptyline in animal studies. Evaluation of ECGs of 682 participants who received paroxetine in double-blind, placebo-controlled studies, however, did not indicate that paroxetine was associated with the development of significant ECG abnormalities. In addition, paroxetine produced no clinically significant changes in blood pressure or heart rate (GSK Seroxat SmPC 2022).
+
+The PK profile of paroxetine has been fully characterised in the adult population. Paroxetine was well absorbed after oral dosing but, because of a significant first-pass effect, not all of the dose reaches the systemic circulation. Paroxetine exhibits non-linear PK due primarily to dose-dependent bioavailability, arising from the involvement of the saturable, polymorphic cytochrome P450 enzyme CYP2D6 in its metabolism (Latham and Morton 1993). In single dose studies, paroxetine plasma concentrations increase disproportionately with dose in most participants, but not in all. In poor metabolizers (PM) participants (PM who lack CYP2D6), concentrations were the highest initially but increase linearly with dose. Similarly, in repeat dose studies, although most participants show greater than predicted paroxetine accumulation during the approach to steady--state, accumulation in PMs was entirely predictable; non-linearity was confined to extensive metabolizers (EMs). Importantly, although non-linearity was also evident when increasing the daily dose at steady--state, the deviations from linearity were less pronounced because CYP2D6 was already partially saturated. In all of these dosing scenarios (increasing dose level and duration), the between-subject PK variability progressively diminishes. These properties indicate that all participants (EMs and PMs) have alternative, non--saturable pathways by which paroxetine was cleared from the body when CYP2D6 was absent or saturated. These linear pathways predominate at steady--state, and therefore the influence of CYP2D6 status as a determinant of PK properties during the routine clinical use of paroxetine was much reduced. Also, because paroxetine plasma concentrations were not predictive of clinical outcome (efficacy or AEs), the same starting doses and titration regimens were suitable for EMs and PMs alike (Latham and Morton 1993).
+
+Paroxetine was first approved in the UK for the treatment of depression in December 1990 and ‘paroxetine’ 20 mg and 30 mg tablets were launched in February 1991. Since the total exposure since launch is estimated to be in excess of 400 million patient treatments.
+
+As there was no suspicion of a QT prolonging effect of paroxetine during its development and registration, QT prolongating effects were not investigated in a controlled setting (e.g., TQT study). Consideration was given to the potential designs in which a QT prolonging effect could be evaluated. While historically TQT studies have been the standard for such evaluations, in more recent years the C-QT study has become accepted in those settings where the suspicion for a potential QT prolonging effect is considered low. A C-QT study design allows the assessment of cardiac effects of a drug and may be more sensitive to detect any correlation between drug exposure and cardiac effects than a standard TQT study, as the C-QT study takes into account drug concentrations where a TQT study does not. In contrast, a TQT study is powered to detect a QTc increase > 10 msec in comparison against a placebo, and uses a positive control (e.g. moxifloxacin). The current C-QT study will employ a titration design, with escalating doses in steps of 20 mg, up to 60 mg paroxetine q.d., which corresponds to the maximum recommended therapeutic paroxetine dose (as per GSK Seroxat SmPC 2022).
+
+For additional information, see the paroxetine label (GDS).
+
+Benefit/risk assessment
+
+More detailed information about the known and expected benefits and risks and reasonably expected adverse events (AEs) of paroxetine may be found in the GSK Seroxat SmPC 2022.
+
+Risk assessment
+
+Paroxetine has a well-characterized safety profile supported by over 30 years on the market across a number of indications, and a large cumulative post-marketing exposure. Information about the known and potential risks and reasonably expected AEs may be found in the GSK Seroxat SmPC 2022. Potential risks of clinical significance for this particular study are summarised below.
+
+Benefit assessment
+
+It is not anticipated that there will be any direct benefit for participants participating in this study. An indirect benefit is that the information obtained in this study will support the continued understanding of the safety profile of paroxetine and support appropriate prescribing in patients with underlying cardiac risks.
+
+Overall benefit-risk conclusion
+
+Considering the measures taken to minimize the risk to participants participating in this study, the potential risks are justified by the potential benefits related to the continued understanding of the safety profile of paroxetine.
+
+OBJECTIVES, ENDPOINTS AND ESTIMANDS
+
+* Laboratory tests will include full blood count, INR, PT, PTT renal (Na+, K+, Cl, creatinine) and hepatic (AST, ALT) markers.
+
+Primary estimand
+
+The primary question of interest is: Is there a clinically significant, and clinically relevant cardiac effect of paroxetine at the maximum recommended therapeutic dose, as measured by a change in QTc from 12-lead ECG?
+
+The estimand is described by the following attributes:
+
+Population: Healthy participants of age 18 to 65 years
+
+Treatment condition: Dose up titration of paroxetine doses of 20, 40 and 60 mg.
+
+Variable/endpoint: Change in QTc from baseline (ΔQTc)
+
+Summary measure: The upper limit of the 90% confidence interval (CI) of model--predicted ΔQTc at the geometric mean steady-state Cmax of the 60 mg paroxetine dose.
+
+Intercurrent events:
+
+Treatment discontinuation due to any reason - While on-treatment strategy will be applied to address this intercurrent event.
+
+Any events affect the drug absorption (1 hour) – Treatment Policy strategy will be applied to address this intercurrent event.
+
+Rationale for estimand:
+
+Interest lies in establishing the relationship between ΔQTc and paroxetine concentrations (Cmax) while the participant is exposed to paroxetine as planned, i.e., prior to the discontinuation of the treatment.
+
+Interest lies in the overall relationship between the ΔQTc and paroxetine concentrations, not with dose - therefore even though the concentration for a dose is affected, the data are still relevant.
+
+If this summary measure is ≥10 msec, additional summary measure may be generated at the geometric mean Cmax of the 40 mg dose. Additionally, another estimand might need to be evaluated.
+
+Refer to Section 9.3.2 for more details.
+
+Secondary estimands
+
+Secondary estimands address all other safety and tolerability findings.
+
+The estimand is described by the following attributes:
+
+Population: Healthy participants of age 18 to 65 years
+
+Treatment condition: Dose up and down titration of paroxetine doses of 20, 40 and 60 mg
+
+Variable/endpoint:
+
+Occurrence of adverse events (AEs) and serious adverse events (SAEs)
+
+Changes in vital signs (blood pressure, heart rate and oral body temperature) from baseline
+
+Changes in haematological and clinical laboratory tests from baseline
+
+Summary measure: Proportions for AEs and SAEs and means of the change from baselines for vital signs, haematological, and clinical laboratory across all dose levels.
+
+Intercurrent events: Study treatment discontinuation due to any reason – treatment policy strategy will be applied for this intercurrent event.
+
+Rationale for Estimand: Safety data will be monitored throughout the study after the start of treatment. There is interest in evaluating and reporting safety events regardless of whether participants discontinued treatment.
+
+STUDY DESIGN
+
+Overall design
+
+This is a an open-label, single arm, dose-escalating concentration QT study to investigate the cardiac effects, safety and tolerability of paroxetine in healthy adult participants.
+
+At least 36 participants with no history of cardiac abnormalities or mood disorders will be enrolled. All eligible participants will receive paroxetine titrated to a dose of 60 mg once daily at increments of 20 mg per week.
+
+All participants will attend a study site visit at Screening (Visit 1: -28 to -31 days), baseline (pre-dose) assessments and first paroxetine administration of 20 mg once daily (Visit 2: Day 1), serial ECG and paroxetine concentration measurements (Visit 3, Day 7) and dose escalation to 40 mg once daily (Visit 3: Day 8), serial ECG and paroxetine concentration measurements at the 40 mg dose (Visit 4, Day 14) and dose escalation to 60 mg once daily (Visit 4: Day 15), serial ECG and paroxetine concentration measurements (Visit 5, Day 21) and the Exit visit (Visit 6, up to 14 days after last 20 mg dose). Tapering from 60 to 40 mg once daily, 40 to 20 mg once daily, and 20 mg once daily to no dose will occur at home. Unplanned visits (if needed) will be scheduled for participants who needs to visit to clinic due to AEs during home dosing or required to start intermediate tapering dose of 10 mg to be started (for both clinic and home dosing) during the treatment period.
+
+During home dosing participants will be interviewed remotely via video-call to confirm dosing compliance and have daily follow-ups. The study design schema is presented in Figure 1. The intervals between study visits are presented in Table 2.
+
+Intervention Groups and Duration:
+
+All participants will receive active treatment with paroxetine tablets once daily with titration steps every week over a maximum treatment period of 3 weeks. This is followed by tapering over the subsequent period of 10 days:
+
+Days 1 -7: 20 mg once daily
+
+Days 8 -14: 40 mg once daily
+
+Days 15- 21: 60 mg once daily
+
+Days 22-26: 40 mg once daily
+
+Days 27-31: 20 mg once daily. If participants are not able to withdraw from 20 mg once daily directly due to withdrawal effects, an additional tapering dose step of 10 mg once daily may be given for 5 days. Unplanned visits (if needed) will be scheduled for participants who need to visit to clinic due to AEs during home dosing or required to start intermediate tapering dose of 10 mg to be started (for both clinic and home dosing) during the treatment period.
+
+Day 32 (or 37) onwards: complete stop of paroxetine
+
+Scientific rationale for study design
+
+This is a single arm, open label, dose escalating concentration QT study to investigate the cardiac effects, safety and tolerability of paroxetine in healthy adult participants. Participants recruited in this study will not be allowed to take other co-administered medication other than paracetamol and will be managed according to routine medical care where relevant. In vitro studies have shown that paroxetine can block hERG channels, which in turn can cause QT prolongation. However, clinical reports evaluating an association between paroxetine exposure and QTc prolongation are limited and vary in their conclusions. Based on the available data from published literature, GSK and EudraVigilance safety databases and clinical studies, it has been concluded that there is some basis for suspicion of an association of QT prolongation with paroxetine, but current evidence does not confirm a causal relationship (GSK document 2021N481496). Following a careful assessment of the suitable approaches to characterise the magnitude of a potential QT prolonging effect, a concentration-QT study was determined to be appropriate to further investigate the potential risk.
+
+Participant input into design
+
+No participants’ input in the design has been considered for this study.
+
+Justification for dose
+
+For adults, it is recommended that paroxetine is administered once daily in the study site in the morning with food. The tablets should be swallowed rather than chewed. The 20 mg tablets have functional break lines to allow for breaking the tablets in half to yield 10 mg doses if needed. As per the Paroxetine label (GDS, 2023), the recommended maintenance dose in adults is 20 mg. The current study will employ a titration design to limit the probability of side-effects occurring, with escalating doses up to 60 mg paroxetine q.d., which corresponds to the maximum recommended therapeutic paroxetine dose.
+
+In this study, all participants will receive active treatment with paroxetine tablets once daily with titration/escalation steps every week over a maximum treatment period of 3 weeks. This is followed by tapering over the period of 10 days as detailed in Section 4.1. If intolerable withdrawal symptoms occur during down titration of paroxetine from 20 mg once daily to no dose, then an intermediate tapering step of 10 mg once daily for an additional 5 days will be allowed. In this case the final follow-up visit will remain up to 14 days after the last 20 mg dose. An unplanned visit (if needed) will be scheduled for participants for an intermediate tapering dose of 10 mg to be started (for both clinic and home dosing) during the treatment period or for those participants who needs to visit to clinical due to AEs after dosing was performed at home.
+
+End-of-study definition
+
+A participant is considered to have completed the study if they have completed all phases of the study. including the last visit for any protocol-related activity (last participant, last visit) as shown in the SoA (Section 1.3) are completed.
+
+The end of the study is defined as the last visit of the last participants in the study.
+
+STUDY POPULATION
+
+Prospective approval of protocol deviations to recruitment and enrolment criteria, also known as protocol waivers or exemptions, are not permitted.
+
+Inclusion criteria
+
+Participants are eligible to be included in the study only if all of the following criteria apply:
+
+Male or female 18 to 65 years, at the time of signing the informed consent form.
+
+Healthy as determined by an experienced physician, based on a medical evaluation including medical history, physical examination, laboratory tests and cardiac monitoring. A participant with a clinical abnormality or laboratory parameters outside the reference range for the population being studied may be included only if the Investigator believes that the finding is unlikely to introduce additional risk factors and will not interfere with the study procedures.
+
+A female participant is eligible to participate if she is of:
+
+Nonchildbearing potential defined as premenopausal females with a documented tubal ligation or hysterectomy; or postmenopausal defined as 12 months of spontaneous amenorrhea [in questionable cases a blood sample with simultaneous follicle stimulating hormone (FSH) > 40lU/L and oestradiol <40 pg/ml (<147 pmol/L) is confirmatory]. Females on hormone replacement therapy (HRT) and whose menopausal status is in doubt will be required to use one of the contraception methods (oral contraceptives, condom with spermicide, etc.) if they wish to continue their HRT during the study. Otherwise, they must discontinue HRT to allow confirmation of postmenopausal status prior to study enrolment. For most forms of HRT, at least 2-4 weeks will elapse between the cessation of therapy and the blood draw; this interval depends on the type and dosage of HRT. Following confirmation of their postmenopausal status, they can resume use of HRT during the study without use of a contraceptive method.
+
+Child-bearing potential and agrees to use one of the contraception methods listed in Appendix 4 for at least for 2 months before screening, up to the final follow up visit,  to sufficiently minimize the risk of pregnancy.
+
+AST, ALT, alkaline phosphatase and bilirubin ≤ 1.5xULN (isolated bilirubin >1.5xULN is acceptable if bilirubin is fractionated and direct bilirubin <35%).
+
+Body weight ≥ 45 kg and BMI within the range 18 to 29.5 kg/m2 (inclusive).
+
+No significant abnormality on 12-lead ECG at Screening in supine position, including the following specific requirements:
+
+Heart rate ≥ 40 beats per minute
+
+PR interval ≤ 220msec*
+
+Q waves < 50msec*
+
+QRS interval to be ≥ 60msec and < 120msec*
+
+The waveforms must enable the QT interval to be clearly defined
+
+QTcF interval must be < 450msec (machine or manual reading).
+
+*For PR, QRS and QTcF interval, and Q wave, the mean of triplicate ECGs will be used.
+
+Capable of giving written informed consent and a signed and dated written informed consent is obtained, which includes compliance with the requirements and restrictions listed in the consent form.
+
+Non-smokers (never smoked or not smoking for >6 months with <10 pack years history (Pack years = (cigarettes per day smoked/20) x number of years smoked) or light smokers (less than 5 cigarettes per day).
+
+Exclusion criteria
+
+Participants are excluded from the study if any of the following criteria apply:
+
+History or presence of any medically significant disease, or any disorder that would introduce additional risk or interfere with the study procedures or outcome. In particular, a family history of QT prolongation, of early or sudden cardiac death or of early cardiovascular disease.
+
+History of symptomatic arrhythmias.
+
+History of hypersensitivity to paroxetine and excipients
+
+History of abnormal coagulation parameters, bleeding disorders or conditions which may predispose to bleeding.
+
+History of, or active suicidal ideation. Includes assessment using the Columbia Suicide Severity Rating Scale (C-SSRS)
+
+Must not have a pre-diagnosed mood disorder
+
+Participant is mentally or legally incapacitated.
+
+A supine blood pressure that is persistently higher than 140/90 millimetres of mercury (mmHG) at Screening.
+
+A supine heart rate outside the range 50-90 beats per minute (BPM) at Screening.
+
+A positive screening Hepatitis B surface antigen or positive Hepatitis C antibody result within 3 months of screening.
+
+Current or chronic history of liver disease, or known hepatic or biliary abnormalities (with the exception of Gilbert's syndrome or asymptomatic gallstones).
+
+A positive drug/alcohol screen at screening or prior to dosing.
+
+A positive test for HIV antibody at Screening.
+
+History of regular alcohol consumption within 6 months of the study defined as:
+
+an average weekly intake of >21 units for males or >14 units for females. One unit is equivalent to 8 g of alcohol: a half-pint (~240 ml) of beer, 1 glass (125ml) of wine or 1 (25 ml) measure of spirits.
+
+The participant has participated in a clinical trial and has received an investigational product within the following time period prior to the first dosing day in the current study: 3 months, 5 half-lives or twice the duration of the biological effect of the investigational product (whichever is longer).
+
+Exposure to more than four new chemical entities within 12 months prior to the first dosing day.
+
+Use of the following medications within 7 days (or 14 days if the drug is a potential enzyme inducer) or 5 half-lives (whichever is longer) prior to the first dose of the study medication: monoamine oxidase inhibitors (including linezolid), thioridazine, pimozide, serotonergic drugs (including L-tryptophan, triptans, tramadol, selective serotonin reuptake inhibitors, lithium and fentanyl, tamoxifen, anti-coagulants, clozapine, phenothiazines, tricyclic antidepressants, acetylsalicylic acid, non-steroidal anti-inflammatory drugs, Cox-2 inhibitors, antiarrhythmics, quinolone antibiotics, macrolides (including clarithromycin and erythromycin), ketoconazole and itraconazole
+
+Use of non-prescription drugs, including vitamins, herbal and dietary supplements (including St John’s Wort) within 7 days (or 14 days if the drug is a potential enzyme inducer) or 5 half-lives (whichever is longer) prior to the first dose of study medication.
+
+No current use of any medication other than paracetamol (doses ≤2 grams/day).
+
+Consumption of Seville oranges, pummelos (members of the grapefruit family) or grapefruit juice from 7 days prior to the first dose of study medication.
+
+Where participation in the study would result in donation of blood or blood products in excess of 500 mL within a 3-month period.
+
+Pregnant females as determined by positive serum β-HCG test at screening or serum/ urine β-HCG prior to dosing.
+
+Lactating females.
+
+Unwillingness or inability to follow the procedures outlined in the protocol.
+
+Participants with unsuitable veins for cannulation and repeat venipuncture.
+
+Lifestyle considerations
+
+Meals and dietary restrictions
+
+Participants must refrain from consumption of red wine, Seville oranges, grapefruit, or grapefruit juice, pomelos, exotic citrus fruits, grapefruit hybrids, or fruit juices from 7 days before the start of study intervention until after the final dose.
+
+Caffeine, alcohol, and tobacco
+
+When on the study site, participants will abstain from ingesting caffeine- or xanthine-containing products (e.g., coffee, tea, cola drinks, and chocolate) until after collection of the final paroxetine concentration and/or PD sample.
+
+Participants should abstain from alcohol before the study baseline until collection of the final sample. It is advised that the participants should not consume alcohol during the dose tapering period (in line with the product GDS).
+
+Participants will not be permitted to use tobacco products or nicotine-containing products (including nicotine patches) while they are in the clinical unit.
+
+Activity
+
+Participants will abstain from strenuous exercise for 72 hours before each blood collection for clinical laboratory tests. Participants may participate in light recreational activities during studies (e.g., watching television, reading).
+
+Screen failures
+
+A screen failure occurs when a participant who has consented to participate in the clinical study is not subsequently assigned to study intervention/entered in the study. A minimal set of screen failure information is required to ensure transparent reporting of screen failure participants to meet the CONSORT publishing requirements and to respond to queries from regulatory authorities. Minimal information includes demography, screen failure details, eligibility criteria, AE and any SAE.
+
+Participants who have consented but not participated will have to complete screen failures form and are considered as screen failures.
+
+Individuals who do not meet the criteria for participation in this study (screen failure) may be rescreened once. A new participant number will be issued to the participant at re-screening. Re- screening should also be allowed for logistical reasons, i.e. participant was a reserve in a previous cohort, or participants can be out of screening window due do long turnover time from GPs or if the cohort is full or, due to any other non-medical reasons etc.
+
+In the case where a safety laboratory assessment at Screening is outside of the range specified in the eligibility criteria, the assessment may be repeated once prior to the treatment. If the repeat value remains outside of the specified range, the participant must be excluded from the study. Criteria for re-screening the participants are provided in Appendix 1.
+
+.
+
+Criteria for temporarily delaying enrolment/administration of study intervention
+
+Not applicable.
+
+STUDY INTERVENTION(S) AND CONCOMITANT THERAPY
+
+The definition of study intervention is provided in the table of definitions.
+
+Study intervention(s) administered
+
+The study intervention administered details are provided in Table 4.
+
+Table 4	Study intervention administered.
+
+Preparation, handling, storage, and accountability
+
+The Investigator or designee must confirm appropriate conditions (e.g., temperature) have been maintained during transit for all study intervention received, and any discrepancies are reported and resolved before use of the study intervention.
+
+Only participants enrolled in the study may receive study intervention, and only authorized site staff will supply, prepare, or administer study intervention
+
+All study supply will be stored in a secure, environmentally controlled, and monitored (manual or automated) area in accordance with the labelled storage conditions with access limited to the Investigator and authorized site staff. For home dosing the exact amount of study drug required for the period will be provided by site to participants upon their discharge from the unit. Participants will then validate their dosing compliance on home dosing days by calling into the site and administering the study drug whilst on the call.
+
+The Investigator and designee, is responsible for study intervention accountability, reconciliation, and record maintenance (i.e., receipt, reconciliation, and final disposition records).
+
+During the study, participants will receive paroxetine tablets orally once daily at clinic and home. During home dosing, participants will take tablets under supervision of clinical staff over video-call. Further guidance and information for the final disposition of unused study interventions are provided in the pharmacy manual.
+
+Assignment to study intervention
+
+Participants will be allocated a unique enrolment number at the study site. This number will be retained regardless of whether the participant subsequently fulfils the eligibility criteria. If a participant withdraws from the study, the enrolment number will not be reused, and the participant will not be allowed to re-enter the study.
+
+Participants may be rescreened once in this study if they do not meet any of the criteria.
+
+In case of dropouts or 20% of the missing data at 60 mg dose, sensitivity analysis may be triggered to have additional enrolment of the participants. The enrolment number will be used to identify the patient on the eCRFs. A participant’s eligibility will be established before study treatment is dispensed.
+
+Blinding/Masking
+
+Not applicable as this is an open-label study.
+
+Study intervention compliance
+
+The preparation of any individual dose for a participant is prepared from open-label supply will be confirmed by a second member of the study site staff.
+
+When participants are dosed at the site, they will receive study intervention directly from the Investigator or designee, under medical supervision. The date and time of each dose administered in the clinic will be recorded in the source documents. Dosing compliance while dosing at home will be controlled via video-calls with the participant. During these calls, the regular morning dose will be taken via video supervision. Although the oral cavity cannot be physically inspected during such a call, this is expected to improve dosing compliance.
+
+A record of the quantity of paroxetine dispensed to and administered by each participant will be maintained and reconciled with study intervention and compliance records. Intervention start and stop dates, including dates for intervention delays and/or dose reductions will also be recorded.
+
+Dose modification
+
+For the dose modification process, refer to Section 4.3. In this study, all participants will receive active treatment with paroxetine tablets once daily with titration/escalation steps every week over a maximum dosing period of 3 weeks. This is followed by tapering over the period of 10 days as detailed in Section 4.1. If intolerable withdrawal symptoms occur during down titration of paroxetine from 20 mg once daily to no dose, then an intermediate tapering step of 10 mg once daily for an additional 5 days will be allowed. In this case the final follow-up visit will remain up to 14 days after the last 20 mg dose. In case of a decision of early discontinuation, the Investigator may taper the dose (by 20 mg every 5 days) or immediately stop dosing, as clinically indicated.
+
+This will be monitored by the Investigator on a case-by-case basis in consultation with the Sponsor’s Medical Monitor.
+
+Continued access to study intervention after the end of the study
+
+Not Applicable.
+
+Treatment of overdose
+
+Participants have generally recovered without serious sequelae even when doses of up to 2000 mg have been taken alone.
+
+Experience of paroxetine in overdose has indicated that, vomiting, dilated pupils, headache, agitation, fever, blood pressure changes, involuntary muscle contractions, anxiety and tachycardia have been reported.
+
+Events such as coma or ECG changes have occasionally been reported and, very rarely a fatal outcome, but generally when paroxetine was taken in conjunction with other psychotropic drugs, with or without alcohol.
+
+No specific antidote is known. The treatment should consist of those general measures employed in the management of overdose with any antidepressant. Supportive care with frequent monitoring of vital signs and careful observation is indicated as per site practice.
+
+In the event of an overdose, the Investigator/treating physician should evaluate the participant to determine, in consultation with the GSK Medical Monitor, if possible, whether study intervention should be interrupted or whether the dose should be reduced.
+
+Prior and concomitant therapy
+
+Any medication or vaccine (including over-the-counter or prescription medicines, recreational drugs, vitamins, and/or herbal supplements) or other specific categories of interest that the participant is receiving at the time of informed consent form or receives during the study must be recorded along with:
+
+Reason for use
+
+Dates of administration including start and end dates
+
+Dosage information including dose and frequency
+
+The GSK Medical Monitor should be contacted if there are any questions regarding concomitant or prior therapy.
+
+Use of the following medications within 7 days (or 14 days if the drug is a potential enzyme inducer) or 5 half-lives (whichever is longer) prior to the first dose of the study medication is prohibited: monoamine oxidase inhibitors (including linezolid), thioridazine, pimozide, serotonergic drugs (including L-tryptophan, triptans, tramadol, selective serotonin reuptake inhibitors, lithium, fentanyl , tamoxifen, anti-coagulants, clozapine, phenothiazines, tricyclic antidepressants, acetylsalicylic acid, non-steroidal anti-inflammatory drugs, Cox-2 inhibitors, antiarrhythmics, quinolone antibiotics, macrolides (including clarithromycin and erythromycin), ketoconazole and itraconazole.
+
+Participants must abstain from taking nonprescription drugs (including vitamins, recreational drugs, and dietary or herbal supplements including St John’s Wort) within 7 days (or 14 days if the drug is a potential enzyme inducer) or 5 half-lives (whichever is longer) before the start of study intervention. Paracetamol/Acetaminophen, at doses of ≤ 2 grams/day and HRT, are permitted for use any time during the study, only during the screening period, etc. Use of other concomitant medications (prescription or non-prescription) during the study is prohibited.
+
+DISCONTINUATION OF STUDY INTERVENTION AND PARTICIPANT DISCONTINUATION/WITHDRAWAL
+
+Discontinuation of study intervention
+
+Discontinuation of study intervention refers to any participant who has not received all planned doses of the study intervention. In some instances, it may be necessary for a participant to permanently discontinue study intervention. If study intervention is permanently discontinued, the participant should, if possible, continue other study procedures (e.g., safety or), planned in the study protocol at the discretion of the Investigator. If the participant does not agree to continue in-person visits, a modified follow-up must be arranged (e.g., telephone contact).
+
+Participants starting a concomitant medication during the study which can potentially induce QT prolongation (e.g. quinolone antibiotic) should be withdrawn.
+
+If a participant fails to take study doses, then the participant will be withdrawn due to non-compliance. This is assessed on a case-by-case basis, where the Investigator will assess the situation in consultation with the Sponsor’s Medical Monitor.
+
+The primary reason for premature discontinuation of the study intervention will be documented in the eCRF based on the list below:
+
+QTc Stopping criteria
+
+If a clinically significant finding is identified (including, but not limited to, changes from baseline in QT interval corrected using [Fridericia’s formula [QTcF]]) after enrolment, the Investigator or qualified designee will determine if the participant can continue the study intervention and if any change in participant management is needed. This review of the ECG printed at the time of collection must be documented. Any new clinically relevant finding should be reported as an AE.
+
+The following normal cut-off values are as follows:
+
+Heart rate 40 to 90 beats per minute
+
+PR interval ≤ 220msec
+
+Q waves < 30msec (up to 50 ms permitted in lead III only)
+
+QRS interval to be ≥ 60msec and < 120msec
+
+The waveforms must enable the QT interval to be clearly defined
+
+QTcF interval must be < 500msec (machine or manual reading) and not be increased ≥60msec compared to baseline.
+
+Participant discontinuation/withdrawal from the study
+
+A participant may withdraw from the study at any time at the participant’s own request for any reason (or without providing any reason).
+
+A participant may be withdrawn at any time at the discretion of the Investigator for safety, behavioural or compliance reasons.
+
+Investigators will attempt to contact participants who do not return for scheduled visits or follow-up.
+
+At the time of discontinuing from the study, if possible, an early discontinuation (ED) visit should be conducted, as shown in the SoA. See SoA for data to be collected at the time of study discontinuation and follow-up and for any further evaluations that need to be completed.
+
+The participant will be permanently discontinued from the study intervention and the study at that time.
+
+All data and samples collected up to and including the date of withdrawal of/last contact with the participant will be included in the study analyses. If the participant withdraws consent for disclosure of future information, the Sponsor may retain and continue to use any data collected before such a withdrawal of consent.
+
+If a participant withdraws from the study, the participant may request destruction of any samples taken and not tested, and the Investigator must document this in the site study records.
+
+The primary reason for participant discontinuation/ withdrawal from the study will be documented in the eCRF based on the list below:
+
+Participants who are withdrawn from the study because of AEs/SAEs must be clearly distinguished from participants who are withdrawn for other reasons. Investigator will follow participants who are withdrawn from the study due to an AE/SAE until the event is resolved (see Section 10.3.5.7).
+
+Lost to follow-up
+
+A participant will be considered lost to follow-up if the participant repeatedly fails to return for scheduled visits and is unable to be contacted by the study site.
+
+The following actions must be taken if a participant fails to return to the clinic for a required study visit:
+
+The site must attempt to contact the participant and reschedule the missed visit as soon as possible, counsel the participant on the importance of maintaining the assigned visit schedule and ascertain whether the participant wishes to and/or should continue in the study.
+
+Before a participant is deemed lost to follow-up, the Investigator or designee must make every effort to regain contact with the participant (where possible, [3] telephone calls, and if necessary, a certified letter to the participant’s last known mailing address or local equivalent methods). These contact attempts should be documented in the participant’s medical record.
+
+Should the participant continue to be unreachable, the participant will be considered to have withdrawn from the study.
+
+Site personnel, or an independent third party, will attempt to collect the vital status of the participant within legal and ethical boundaries for all participants enrolled, including those who did not get study intervention. Public sources may be searched for vital status information. If vital status of the participant is determined as deceased, this will be documented and the participant will not be considered lost to follow-up. Sponsor personnel will not be involved in any attempts to collect vital status information.
+
+STUDY ASSESSMENTS AND PROCEDURES
+
+Study procedures and their timing are summarised in the schedule of activities (SoA). Protocol waivers or exemptions are not allowed.
+
+Adherence to the study design requirements, including those specified in the SoA, is essential and required for study conduct.
+
+All screening evaluations must be completed and reviewed to confirm that potential participants meet all eligibility criteria. Participants who have signed informed consent but are not eligible to proceed should be recorded in the eCRF with a status of ‘screen failure’.
+
+Procedures conducted as part of the participant’s routine clinical management [(e.g., blood count)] and obtained before signing of the ICF may be utilized for screening or baseline purposes provided the procedures met the protocol-specified criteria and were performed within the timeframe defined in the SoA.
+
+In the event of a significant study-continuity issue (e.g., caused by a pandemic), alternate strategies for participant visits, assessments, study intervention distribution and monitoring may be implemented by the Sponsor or the Investigator, as per local health authority/ethics requirements allowed by country regulation/ethics, study assessments may be conducted virtually (telemedicine, secure video conferences, phone calls, or a web portal and/or mobile application)]; however, on-site visits are required as per the SoA.
+
+The maximum amount of blood collected from each participant over the duration of the study, including any extra assessments that may be required, will be approximately 500 mL.
+
+Repeat or unscheduled samples may be taken for safety reasons, to confirm the initial reading or for technical issues with the samples.
+
+Administrative procedures
+
+Collection of demographic data
+
+Demographic data such as date of birth, sex, race, and ethnicity will be recorded in the participant’s CRF.
+
+Collection of sex, race and ethnicity data is necessary to assess and monitor the diversity of the trial participants, and to determine if the trial participants are truly representative of the impacted population.
+
+Medical History
+
+Participant’s medical history will be collected and recorded in participant’s medical records. Any pre-existing conditions, signs and/or symptoms present prior to study start will be recorded in the eCRF.
+
+Efficacy and/or immunogenicity assessments
+
+Not applicable for this study.
+
+Safety assessments
+
+Planned timepoints for all safety assessments are provided in the SoA (Table 2).
+
+Physical examination
+
+Physical examinations will be performed and recorded in the eCRF at the times shown in Table 2.
+
+A complete physical examination will include, at a minimum, assessments of the (CV, respiratory, gastrointestinal, and neurological) systems. Height (at screening) and weight (at screening and discontinuation) will also be measured and recorded.
+
+A brief physical examination will include, at a minimum, assessments of the (skin, lungs, CV system, and abdomen [liver and spleen]).
+
+After screening, any clinically significant abnormal findings in physical examinations should be reported as AEs.
+
+Vital signs
+
+Vital signs will be performed and recorded in the eCRF at the times shown in Table 2.
+
+Vital signs (pulse rate, systolic and diastolic blood pressure, and oral body temperature) will be assessed. Triplicate BP measurements will be performed at screening only. Resting supine blood pressure and pulse rate will be measured using a semi-automatic blood pressure recording device with an appropriate cuff size. The participant should have a minimum resting period in a supine position before pulse and blood pressure measurements of 5 minutes.
+
+Electrocardiograms
+
+Standard 12-lead ECG will be obtained as outlined in the SoA (Table 2) using an ECG machine that automatically calculates the heart rate. All ECGs in this study should all be recorded using the same make of ECG device (Mortara Surveyor Telemetry Central and Mortara telemetry transmitters Model: Surveyor S4), with the exception of Screening visit, where CardioSoft® will be used. The Mortara system is validated every 12 months. Monitors will also be available to spot check the calibration when on-site. The readings generated by Mortara surveyor S4 machine will be validated by the cardiologist with their interpretation on whether the findings are significant and related to paroxetine. ECGs must be recorded after 10 minutes rest in the supine position to ensure a stable Baseline. ECGs will be performed and recorded in the eCRF at the times shown in Table 2. The preferred sequence of cardiovascular data collection during study visits is ECG collection first, followed by vital signs, blood sampling, and any remaining assessments for that visit.
+
+At Screening, participants will be excluded based on ECG measurements if the resting QTc is >450msec (mean of three twelve-lead ECG measurements and using Fridericia’s correction). The Fridericia QT correction formula (QTcF) must be used for clinical decisions, e.g., at Screening to assess eligibility. Further, all ECGs will be performed in triplicate collected within 5 min, at least 1 minute in between, at each timepoint.
+
+Triplicate ECGs will be performed at each timepoint as detailed in SOA (Table 2). The mean QTc value will be calculated from the triplicate ECGs for each participant.
+
+The ECG extractions will be paired with paroxetine concentration samples but will be obtained before the actual paroxetine concentration sampling time to avoid changes in autonomic tone associated with the psychological aspects of blood collection as well as the reduction in blood volume subsequent to blood collection.
+
+At visits where an ECG is not scheduled, an ECG can be performed if medically indicated.
+
+All ECG traces will be measured by a third-party vendor, which includes review by a licensed cardiologist. The cardiologist will review the ECGs and provide interpretation on whether the findings are normal, abnormal but non-clinically significant (unrelated to Paroxetine), or abnormal but clinically significant (related to paroxetine).
+
+More than one cardiologist from the vendor may be reviewing the ECGs in the study. However, to remove bias all ECGs of a particular participant will be reviewed by the same cardiologist. The cardiologists will also be blinded to study visits/timestamps/paroxetine dose at which the ECGs were performed. A copy should be filed in the participant’s medical records. Any clinically significant finding observed on the ECG should be recorded as an AE. A copy of ECG traces (with participant-identifying details redacted) may be collected by a Sponsor appointed representative for additional cardiology review if required. Clinically significant abnormalities must be recorded on the eCRF as either medical history/current medical conditions or adverse events as appropriate.
+
+Clinical Safety laboratory tests
+
+See Section 10.2 for the list of clinical laboratory tests to be performed in accordance with laboratory manual and the SoA (Section 1.3).
+
+The Investigator must review the laboratory results, document this review, and record any clinically significant changes occurring during the study as an AE. The laboratory results must be retained with source documents.
+
+Abnormal laboratory findings associated with the underlying disease are not considered clinically significant unless judged by the Investigator to be more severe than expected for the participant’s condition.
+
+All laboratory tests with values considered clinically significantly abnormal during participation in the study or after the last dose of study intervention should be repeated until the values return to normal or baseline or are no longer considered clinically significant by the Investigator or Sponsor’s Medical Monitor.
+
+In the absence of a diagnosis, abnormal laboratory findings assessments or other abnormal results the Investigator considers clinically significant will be recorded as an AE or SAE, if they meet the definition of an AE or SAE (refer to Sections 10.3.1 and 10.3.2).
+
+If clinically significant/any values do not return to normal/baseline within a period of time judged reasonable by the Investigator, the etiology should be identified, and the Sponsor notified.
+
+If laboratory values from non-protocol-specified laboratory tests performed at the institution’s local laboratory require a change in participant management or are considered clinically significant by the Investigator (e.g, SAE or AE or dose modification), then the results must be recorded.
+
+The tests detailed in Table 5 will be performed by the local laboratory and refer to Section 10.2 for more details/
+
+Table 5	Protocol-required safety laboratory tests
+
+Pregnancy testing
+
+Women of childbearing potential must perform a urine/blood pregnancy test before the administration of any dose of study intervention. Pregnancy testing must be done even if the participant is menstruating at the time of the study visit. The study intervention may only be administered if the pregnancy test is negative.
+
+Refer to Section 8.4.5 for the information on study continuation for participants who become pregnant during the study.
+
+Study stopping rules, Safety monitoring committee
+
+Study Stopping Rules
+
+Participant safety will be continuously monitored by the Sponsor’s Medical Monitor, and designated Safety Lead (or delegate) throughout the study. Pertinent findings and conclusions are shared with the product’s safety review team for review of the overall benefit-risk profile of the product.
+
+Dependent on regional guidance, any restart following a temporary hold due to stopping rules being met will require prior submission and approval of a substantial Clinical Trial Application (CTA) amendment to the competent authorities.
+
+Dosing will be placed on temporary hold and must be stopped based on full review of all available safety data and discussion with the Investigator if any of the following occur:
+
+Two or more participants experiencing any Serious Adverse Reaction (SAR) (i.e. a SAE suspected to be at least possibly related to the study treatment(s)
+
+Two or more participants experiencing an AE which was assessed as severe in intensity (Grade 3) and is considered as potentially related to the study treatment(s).
+
+One or more participants in the cohort experiencing QTcF interval >500 msec (or QTcF prolongation >60 msec from Baseline)
+
+One or more participants in the cohort developing a liver-related finding that would stop treatment based on the liver-related AE rules outlined in Section 10.2 considered as drug related
+
+The Investigator (or designee) and Sponsor considers that the number and/or severity of AEs, abnormal safety monitoring tests or abnormal laboratory findings justify putting the study on hold.
+
+The Sponsor unilaterally requests it.
+
+Safety monitoring committee
+
+An Independent Data Monitoring Committee (IDMC) is not required for this study.
+
+Adverse Events (AEs) serious adverse events (SAEs), and other safety reporting
+
+For definitions relating to safety information see Section 10.3.
+
+The Investigator and any qualified designees are responsible for detecting, documenting, and recording events that meet the definition of an AE or SAE and other safety information and remain responsible for following up [all AEs OR SAEs, considered related to the study intervention or study procedures, or that caused the participant to discontinue the study (see Section 7). This includes events reported by the participant.
+
+The method of recording, evaluating, and assessing causality of AEs and SAEs and the procedures for completing and transmitting SAE reports are provided in Section 10.3.
+
+All AEs and SAEs will be collected from the first dose of the study until the last visit at the time points specified in the SoA. All SARs related to study procedure or GSK product will be collected from the moment of giving consent until the last visit. SAE reconciliation process will be mentioned in data management plan or in SAE plan
+
+SAEs assessed as related to study participation (e.g., study intervention, protocol-mandated procedures, invasive tests, or change in existing therapy) or related to a GSK product (concomitant) will be recorded from the time a participant consents to participate in the study. Time period and frequency for collecting AE, SAE, and other safety information.
+
+Medical occurrences that begin before the start of study intervention but after obtaining informed consent will be recorded as medical history/current medical conditions, not as AEs.
+
+Time period and frequency for collecting AE, SAE, and other safety information
+
+All SAEs will be recorded and reported to the Sponsor or designee immediately and under no circumstance should this exceed 24 hours, as indicated in Section 10.3. The Investigator will submit any updated SAE data to the Sponsor within 24 hours of it being available.
+
+A poststudy AE/SAE is defined as any event that occurs outside of the AE/SAE reporting period.
+
+Investigators are not obligated to actively seek information on AEs or SAEs after conclusion of the study participation. However, if the Investigator learns of any SAE, including a death, after a participant has been concluded from the study, the Investigator must record it in the medical records. If the Investigator considers the event to be reasonably related to the study intervention or study participation, the Investigator must promptly notify the Sponsor.
+
+Method of detecting AEs and SAEs
+
+Care will be taken not to introduce bias when detecting AEs and SAEs. Open-ended and nonleading questioning of the participant is the preferred method to inquire about AE occurrences.
+
+Follow-up of AEs and SAEs
+
+After the initial AE/SAE report, the Investigator is required to proactively follow each participant at subsequent visits/contacts. All SAEs (as defined in Section 8.4.3) will be followed until resolution, stabilization, the event is otherwise explained, or the participant is lost to follow-up (as defined in Section 7.3). Further information on follow-up procedures is provided in Section 10.3.5.5.
+
+Regulatory reporting requirements for SAEs
+
+Prompt notification by the Investigator to the Sponsor of an SAE is essential so that legal obligations and ethical responsibilities toward the safety of participants and the safety of a study intervention under clinical investigation are met. See Section 8.4.4 for reporting timeframes.
+
+For SAE the Investigator must always provide an assessment of causality at the time of the initial report, as defined in the Section 10.3.5.6.
+
+An Investigator who receives an Investigator safety report describing an SAE or other specific safety information (e.g., summary or listing of SAEs) from the Sponsor will review and then file it along with the (IB/ investigational directions for use [IDFU]/package insert or state other documents) and will notify the IRB/IEC, if appropriate according to local requirements.
+
+Table 6	Timeframes for submitting SAE, pregnancy and other events reports to GSK
+
+* Timeframe allowed after receipt or awareness of the information by the Investigator/site staff.
+
+‡ Paper AEs Report will be dated and signed by the Investigator (or designee).  For each SAE, the Investigator must document in the medical notes that they have reviewed the SAE and have provided an assessment of causality.
+
+Pregnancy
+
+Participant must be excluded from participation if the serum pregnancy result is positive.
+
+Details of all pregnancies in female participants and, if indicated, female partners of male participants will be collected after the start of study intervention and until time period for reporting pregnancies should align with the time period for postintervention contraception determined in Section 5.1.
+
+If a pregnancy is reported, the Investigator will record pregnancy information on the appropriate form and submit it to the Sponsor within 24 hours of learning of the female participant or female partner of male participant (after obtaining the necessary signed informed consent from the female partner) pregnancy.
+
+Any pregnancy complication or elective termination of a pregnancy for medical reasons will be reported as an AE or SAE.
+
+Abnormal pregnancy outcomes (e.g., spontaneous abortion, foetal death, stillbirth, congenital anomalies, ectopic pregnancy) are considered SAEs and will be reported as such.
+
+The pregnant female partner will be followed to determine the outcome of the pregnancy. The Investigator will collect follow-up information on the pregnant female partner and the neonate and the information will be forwarded to the Sponsor.
+
+Any poststudy pregnancy-related SAE considered reasonably related to the study intervention by the Investigator will be reported to the Sponsor as described in Section 8.4.5. While the Investigator is not obligated to actively seek this information in former study participants/pregnant female partner], he or she may learn of an SAE through spontaneous reporting.
+
+Any female participant who becomes pregnant while participating in the study will discontinue study intervention or be withdrawn from the study.
+
+Cardiovascular and death events
+
+For any CV events detailed in Section 10.3.3and all deaths, whether or not they are considered SAEs, specific CV and Death sections of the eCRF will be required to be completed. These sections include questions regarding CV (including sudden cardiac death) and non-CV death.
+
+The CV eCRFs are presented as queries in response to reporting of certain CV MedDRA terms. The CV information should be recorded in the specific CV section of the eCRF within one week of receipt of a CV Event data query prompting its completion.
+
+The Death eCRF is provided immediately after the occurrence or outcome of death is reported. Initial and follow-up reports regarding death must be completed within one week of when the death is reported.
+
+Disease-related events and/or disease-related outcomes not qualifying as AEs or SAEs
+
+Not applicable as this is a healthy volunteer study.
+
+Contact information for reporting SAEs, pregnancies and study holding rules
+
+Table 7	Contact information for reporting SAEs, pregnancies and study holding rules
+
+Participant Card
+
+The Investigator (or designee) must provide the participant with a “participant card” containing information about the clinical study. The participants must be instructed to always keep the participant card in their possession for the duration of the study. In an emergency, this card serves to inform the responsible attending physician that the participant is in a clinical study and that relevant information may be obtained by contacting the Investigator or their back up.
+
+Pharmacokinetics
+
+Blood samples will be collected for measurement of plasma concentrations of study intervention as specified in the SoA (Section 1.3). Blood sample collection, processing and shipping details will be outlined in a separate laboratory manual.
+
+Instructions for the collection and handling of biological samples will be provided by the Sponsor. The actual date and time (24-hour clock time) of each sample will be recorded.
+
+Pharmacodynamics
+
+Pharmacodynamics (other than cardiac effects as described elsewhere) are not measured in this study.
+
+Genetics
+
+Genetics are not evaluated in this study.
+
+Biomarkers
+
+Biomarkers are not evaluated in this study.
+
+Immunogenicity assessments
+
+Immunogenicity is not assessed in this study.
+
+Health economics or medical resource utilization and health economics
+
+Health economics OR Medical resource utilization and health economics parameters are not evaluated in this study.
+
+STATISTICAL CONSIDERATIONS
+
+The SAP will be finalized prior to database lock and it will include a more technical and detailed description of the statistical analyses described in this section. This section is a summary of the planned statistical analyses of the most important endpoints including primary and key secondary endpoints.
+
+Statistical hypothesis/hypotheses/comparisons
+
+Multiplicity Adjustment
+
+No multiplicity adjustment will be required to test hypotheses endpoints.
+
+Analysis sets
+
+Statistical analyses
+
+General considerations/definitions
+
+All data will be listed and descriptive analysis along with appropriate graphs will be provided. Categorical data shall be summarized by means of absolute and relative frequencies (counts and percentages) and continuous data by means of the number of observations, the arithmetic mean, standard deviation, minimum, median, maximum, CI, geometric mean and coefficient of variation as appropriate.
+
+Primary endpoint analysis
+
+Definition of endpoints
+
+The primary endpoint is Change from baseline in QTc (ΔQTc) where baseline is the pre dose collection at Visit 2.
+
+Main Analytical Approach
+
+A random-coefficient mixed-effects model will be fit to all available paroxetine concentration - ΔQTc data pairs, as described in a white paper (Garnet, 2017). In this model, ΔQTc is the dependent variable and paroxetine concentration and time after dose are independent variables, it takes the form of:
+
+In this equation ΔQTci,k is the change from baseline in QTc for subject i at time k; θ0 is the population mean intercept in the absence of a treatment effect; η0,i is the random effect associated with the intercept term θ0; θ1 is the population mean slope of the assumed linear association between concentration and ΔQTci,k; η1,i is the random effect associated with the slope θ1; Ci,k is the concentration for participant i and time k; θ2 is the fixed effect associated with time; and θ3 is the fixed effect associated with the difference of each baseline values to the overall mean ( Baseline QTci,k=0, QTc0 is overall mean of QTci,k=0, i.e., the mean of all the baseline (= time 0) QTc values). It is assumed the random effects are normally distributed with mean [0,0] and an unstructured covariance matrix G, whereas the residuals are normally distributed with mean 0 and variance R. The ΔQTc and paroxetine concentrations corresponding to all doses (20, 40, and 60mg) will be used for the modelling (both drawn from each participant at same time intervals). This model includes a linear correlation between paroxetine plasma concentration and ΔQTc.
+
+This model will be estimated including the precision around the parameter estimates. The geometric mean of the individual Cmax values for participants at the 60 mg dose will be calculated. Based on the estimated model, and the calculated geometric mean Cmax for dose 60 will be used in the fitted model to predict the upper limit of the 90% CI of ΔQTc at dose 60 mg
+
+The summary measure of the study is the geometric mean and 90% CI of the predicted ΔQTc at Cmax. If the upper bound of 90% CI for the geometric mean of QTc corresponding to the Cmax of paroxetine concentration at dose 60mg of that prediction falls below the 10 msec mark, the conclusion of the study is that there is no clinically relevant QTc prolongation up to and including the 60 mg dose. In case the upper 90% CI limit does not fall below the 10 msec mark, the same evaluation will be performed for the ΔQTc at the geometric mean Cmax of the 40 mg once daily dose. Intercurrent events and handling of missing data:
+
+The data will be affected by occurrence of the intercurrent event (Treatment discontinuation of the study) would be treated as missing at random from the occurrence of the intercurrent event until the end of the study. Participant level missing data considered as missing at random, will not be imputed and available data will be used in the primary analysis.
+
+The treatment policy strategy for events affecting absorption within 1 hour is used for the estimation model as it is based on concentration not dose - therefore even though the concentration may be affected, the data is still relevant for quantifying the relationship between change in QTc and drug concentration. Hence, we will use all the data in the modelling (paroxetine concentration and ΔQTc) irrespective of the occurrence of the intercurrent event. However, when the model is used to predict the upper 90% CI for 60mg doses an absorption event may artificially reduce the prediction, hence the corresponding paroxetine concentration data will not be used in the calculation of the Cmax at and in the prediction of the geometric mean of predicted ΔQTc and 90% CI.
+
+Detailed analysis will be described in Statistical Analysis Plan.
+
+Sensitivity Analyses
+
+In case 20% or more (8 participants or more) participants at the 60 mg once daily dose have either missing paroxetine concentration data around the Cmax at the 60 mg dose level, or an intercurrent event of “any events affecting absorption within 1 hour of the dose” at the 60 mg dose, a sensitivity analysis will be performed to ensure that there is no bias in the calculated geometric mean of the Cmax at the 60 mg once daily dose. This analysis will consist of pharmacokinetic model-fitting of the individual paroxetine concentration data without the estimation of population level parameters (post-hoc or Bayesian fit). This will allow the prediction of the Cmax at the 60 mg once daily dose for those participants with missing data, based on the available paroxetine concentration data at the earlier doses. Through this method, a geometric mean of Cmax at the 60 mg dose can be calculated that should be less affected by dropout, missing data, or intercurrent events. An additional calculation of the upper limit of the 90% CI of ΔQTc will then be performed using the Cmax of the 60 mg dose calculated using this method. In case the evaluation of ΔQTc finds a ≥10 ms upper 90% CI limit at the 60 mg dose, the same model-based prediction of Cmax at the 40 mg dose for dropouts will be performed, where required. Details of this analysis will be described in the Statistical Analysis Plan.
+
+Secondary endpoint(s)/estimand(s) analyses
+
+The summary of the absolute value and its change from baseline in each vital sign parameter will be provided across the entire intervention. Frequency counts and percentages will be provided for abnormalities.
+
+Frequency counts and percentages will be provided for all the reported Adverse Events (AEs) and Serious Adverse Events (SAEs).
+
+Safety analysis
+
+Safety parameters such as occurrence of Adverse events (AEs) and Serious adverse events (SAEs), clinically significant changes in physical examination findings, vital signs, and ECG will be descriptively summarized as appropriate. The change from baseline for, vital signs, and ECG will be reported across the intervention period. All safety analyses will be performed on the safety population.
+
+Interim analyses
+
+No interim analysis is planned for this study.
+
+Sample size determination
+
+At least 36 participants, men or non-pregnant women, aged 18 to 65 years will be enrolled. This number is expected to result in sufficiently wide range of paroxetine concentrations to cover those typically observed in a real-world clinical setting. A Monte Carlo simulation analysis was used to determine the probability of the 90% upper limit of the CI of the ΔQTC at the geometric mean of the 60 mg dose encompassing the 10 ms cut-off value. Based on this simulation approach, it is expected that under the assumption of no true effect of paroxetine on QTc at the 60 mg dose, the expected probability of incorrectly detecting an effect (90% upper limit of the CI ≥10 ms) is <1% (false positive) when inclusion is 36 participants. In case the true effect is 5 ms, the expected probability of a false positive is <2%. When the true effect is 10 ms, the expected probability of correctly determining a QTc prolongating effect is approximately 82%.
+
+The sensitivity of missing data was also assessed. With 20% drop out at the 40 mg dose and another 25% drop out at the 60 mg dose (in addition to the drop out at the 40 mg dose) the expected probability of incorrectly detecting an effect (90% upper limit of the CI 10 msec) for 36 participants is 1% (false positive) when the true effect is null. The expected probability of a false positive is 5% if the true effect is 5 msec. The expected probability of correctly determining a QTc prolonging effect is approximately 85% when the true effect is 10 msec.
+
+Please refer Appendix 2 (sample size determination section) for further details.
+
+SUPPORTING DOCUMENTATION AND OPERATIONAL CONSIDERATIONS
+
+Appendix 1: Regulatory, ethical, and study oversight considerations
+
+Regulatory and ethical considerations
+
+This study will be conducted in accordance with the protocol and with the following:
+
+Consensus ethical principles derived from international guidelines including the Declaration of Helsinki and Council for International Organizations of Medical Sciences (CIOMS) international ethical guidelines
+
+Applicable ICH GCP guidelines
+
+Applicable laws and regulations
+
+The protocol, protocol amendments ICF, IB, and other relevant documents (e.g., advertisements) must be submitted to an IRB/IEC by the Investigator and reviewed and approved by the IRB/IEC before the study is initiated.
+
+Any and/or substantial amendments to the protocol will require IRB/IEC approval before implementation of changes made to the study design, except for changes necessary to eliminate an immediate hazard to study participants.
+
+Protocols and any substantial amendments to the protocol will require health authority approval prior to initiation except for changes necessary to eliminate an immediate hazard to study participants.
+
+The Investigator will be responsible for the following, as applicable:
+
+Providing written summaries of the status of the study to the IRB/IEC annually or more frequently in accordance with the requirements, policies, and procedures established by the IRB/IEC
+
+Notifying the IRB/IEC of SAEs or other significant safety findings as required by IRB/IEC procedures
+
+Providing oversight of the conduct of the study at the site and adherence to requirements of 21 Code of Federal Regulation (CFR), ICH guidelines, the IRB/IEC, European regulation 536/2014 for clinical studies (if applicable), and all other applicable local regulations
+
+Financial disclosure
+
+Investigators will provide the Sponsor with sufficient, accurate financial information as requested to allow the Sponsor to submit complete and accurate financial certification or disclosure statements to the appropriate regulatory authorities. Investigators are responsible for providing information on financial interests during the course of the study and for 1 year after completion of the study.
+
+Informed consent process
+
+The Investigator or the Investigator’s representative will explain the nature of the study, including the risks and benefits, to the participants and answer all questions regarding the study.
+
+Potential participants must be informed that their participation is voluntary.
+
+The medical record must include a statement that physical or digital informed consent was obtained before the participant was enrolled in the study and the date the physical or digital consent was obtained. The authorized person obtaining the informed consent must also sign the ICF.
+
+Participants must be reconsented to the most current version of the ICF(s) during their participation in the study.
+
+A physical or digital copy of the ICF(s) must be provided to the participant.
+
+Participants who are rescreened are required to sign a new ICF.
+
+In case of unexpected pregnancy, participant must be informed that Investigator such as date of birth, sex of the baby will be collected as part of safety follow-up.
+
+If partners of male participants become pregnant during the study, consent will need to be obtained or notification given as per local regulation to the partner before collecting their PI such as [e.g. last menstrual period, year of birth] or the Investigator such as date of birth, sex of their baby as part of safety follow-up.
+
+Recruitment strategy
+
+Week 1
+
+Screening Window Opens
+
+Initiate FB & Instagram Campaigns
+
+Contact volunteers from DB
+
+Report generation
+
+Assess turn up rate vs consenting.
+
+Week 2
+
+Assess digital platform performance
+
+Target platform with highest return
+
+New audience target and increase reach if appropriate
+
+Optimise FB & Instagram Campaigns
+
+Consider newspaper adverts
+
+Week 3 & 4
+
+Continual assessment of campaign performance
+
+Ascertain GP response status, exclusion & drop outs, mitigation as far as possible
+
+Target subjects with current GP MQs
+
+Target subjects who participated in previous studies with similar design
+
+Target eligible subjects who recently completed wash out on previous studies
+
+Increase screening slots
+
+Assign staff specifically to chase GP responses
+
+Escalation of recruiting challenges (if appropriate)
+
+Exclusion criteria trend monitoring and communication
+
+Review competitive studies and consider appropriate action
+
+Increase payment to GPs for fast turnaround of MQ completion
+
+Data protection
+
+Participants will be assigned a unique identifier by the Investigator. Any participant records or datasets that are transferred to the Sponsor will contain the identifier only; participant names or any information which would make the participant identifiable will not be transferred.
+
+GSK will ensure protection of the personal data of the Investigator and site staff which is collected within the framework of and for the purpose of the study.
+
+The participant must be informed that their personal study-related data will be used by the Sponsor in accordance with local data protection law. The level of disclosure must also be explained to the participant, that their data will be used as described in the informed consent.
+
+The participant must be informed that their medical records may be examined by Clinical Quality Assurance auditors or other authorized personnel appointed by the Sponsor, by appropriate IRB/IEC members, and by inspectors from regulatory authorities.
+
+The contract between Sponsor and study sites specifies responsibilities of the parties related data protection, including handling of data security breaches and respective communication and cooperation of the parties.
+
+Information technology systems used to collect, process, and store study-related data are secured by technical and organizational security measures designed to protect such data against accidental or unlawful loss, alteration, or unauthorized disclosure or access.
+
+GSK and/or trusted third parties working on behalf of GSK and/or institutions working with GSK for the purposes of this study are contractually bound to protect participant coded data. GSK will protect participant coded data and will only share it as described in the ICF.
+
+Committees structure
+
+An Independent Data Monitoring Committee (IDMC) is not required for this study.
+
+Dissemination of Clinical Study Data
+
+The key design elements of this protocol and results summaries will be posted on www.ClinicalTrials.gov and/or GSK Clinical Study Register in compliance with applicable regulations/GSK policy. GSK will aim to register protocols summaries prior to study start and target results summaries submission within 12 months of primary/ study completion date. Where external regulations require earlier disclosure, GSK will follow those timelines.
+
+Where required by regulation, summaries will also be posted on applicable national or regional clinical study registers.
+
+Where required by applicable regulatory requirements, an Investigator signatory will be identified for the approval of the study report, and provided reasonable access to statistical tables, figures, and relevant reports. GSK will also provide the Investigator with the full summary of the study results, including a summary of trial results understandable to laypersons. The Investigator is encouraged to share the plain language summary with the study participants, as appropriate. The full study report will be made available upon request, after decision on marketing authorization by regulatory authorities.
+
+GSK will provide the Investigator with the participant codes and participant-level line listings for their site only after completion of the full statistical analysis.
+
+GSK intends to make anonymized participant-level data from this study available to external researchers for scientific analyses or to conduct further research that can help advance medical science or improve participant care. This helps ensure the data provided by study participants are used to maximum effect in the creation of knowledge and understanding.
+
+Data quality assurance
+
+All participant data relating to the study will be recorded on printed or electronic CRFs unless transmitted to the Sponsor or designee electronically (e.g., laboratory data). The Investigator is responsible for verifying that data entries are accurate and correct by physically or electronically signing the CRF.
+
+A data management plan will be created and maintained throughout the study.
+
+SAE reconciliation process will be mentioned in data management plan or in SAE plan
+
+Guidance on completion of eCRFs will be provided in eCRF completion guidelines.
+
+The Investigator must permit study-related monitoring, audits, IRB/IEC review, and regulatory agency inspections and provide direct access to source documents.
+
+Monitoring details describing strategy, including definition of study critical data items and processes (e.g., risk-based initiatives in operations and quality such as risk management and mitigation strategies and analytical risk-based monitoring, involvement of central reading mechanism) methods, responsibilities, and requirements, including handling of noncompliance issues and monitoring techniques (central, remote, or on-site monitoring) are provided in the monitoring plan.
+
+The Sponsor or designee is responsible for the data management of this study, including quality checking of the data.
+
+The Sponsor assumes accountability for actions delegated to other individuals (e.g., contract research organizations).
+
+Records and documents, including signed ICF, pertaining to the conduct of this study must be retained by the Investigator for 25 years from the issue of the final CSR/ equivalent summary unless local regulations or institutional policies require a different retention period. No records may be destroyed during the retention period without the written approval of the Sponsor. No records may be transferred to another location or party without written notification to the Sponsor.
+
+All data generated by the site personnel will be captured electronically at each study centre using electronic case report form (eCRFs). Data from external sources (such as laboratory data) will be imported into the database. Once the eCRF clinical data have been submitted to the central server at the independent data centre, corrections to the data fields will be captured in an audit trail. The reason for change, the name of the person who performed the change, together with the time and date will be logged to provide an audit trail.
+
+If additional corrections are needed, the responsible monitor or data manager will raise a query in the electronic data capture (EDC) application. The appropriate staff at the study site will answer queries sent to the Investigator. The name of the staff member responding to the query, and time and date stamp will be captured to provide an audit trail. Once all source data verification is complete and all queries are closed, the monitor will freeze the eCRF page.
+
+The specific procedures to be used for data entry and query resolution using the EDC system/eCRF will be provided to study sites in a training manual. In addition, site personnel will receive training on the EDC system/eCRF.
+
+Source documents
+
+Source documents provide evidence for the existence of the participant and substantiate the integrity of the data collected. Source documents are filed at the Investigator’s site.
+
+Data reported on the eCRF that are transcribed from source documents must be consistent with the source documents or the discrepancies must be explained. The Investigator may need to request previous medical records or transfer records, depending on the study. Also, current medical records must be available.
+
+Definition of what constitutes source data and its origin can be found in [e.g. source data acknowledgment or monitoring guidelines].
+
+The Investigator must maintain accurate documentation (source data) that supports the information entered in the eCRF.
+
+The Sponsor or designee will perform monitoring to confirm that data entered into the eCRF by authorized site personnel are accurate, complete, and verifiable from source documents; that the safety and rights of participants are being protected; and that the study is being conducted in accordance with the currently approved protocol and any other study agreements, ICH GCP, and all applicable regulatory requirements.
+
+Copies of documents are shared with external third parties contracted by GSK for review by a central reader mechanism (e.g. endpoint adjudication committee; expert reader). The non-exhaustive list of documents shared to inform the central reader may include, discharge summaries, imaging reports, ECG reports etc. Participant names or any information which would make the participant identifiable or is not essential for the central reader mechanism will be redacted by the Investigator sites prior to transfer.  Details of the list of documents and the redaction procedure are provided in the site manual or equivalent. These documents will be used by the third party solely for the purpose indicated within this protocol.
+
+Study and site start and closure
+
+Start of study and first act of recruitment
+
+The start of study and the first act of recruitment are defined as FPFV (first ICF signature date) at a country-level.
+
+Study/Site Termination
+
+GSK or designee reserves the right to close the study site or terminate the study at any time for any reason at the sole discretion of GSK. Study sites will be closed upon study completion. A study site is considered closed when all required documents and study supplies have been collected and a study site closure visit has been performed.
+
+The Investigator may initiate study site closure at any time, provided there is reasonable cause and sufficient notice is given in advance of the intended termination.
+
+Reasons for the early closure of a study site by the Sponsor or Investigator may include but are not limited to:
+
+For study termination:
+
+Discontinuation of further study intervention development
+
+For site termination:
+
+Failure of the investigator to comply with the protocol, the requirements of the IRB/IEC or local health authorities, the Sponsor’s procedures, or GCP guidelines
+
+Inadequate or no recruitment (evaluated after a reasonable amount of time) of participants by the Investigator
+
+Total number of participants included earlier than expected
+
+If the study is prematurely terminated or temporarily suspended, the Sponsor shall promptly inform the Investigators, the IECs/IRBs, the regulatory authorities, and any contract research organization(s) used in the study of the reason for termination or temporary suspension, as specified by the applicable regulatory requirements. The Investigator shall promptly inform the participant and should assure appropriate participant therapy and/or follow-up.
+
+Publication policy
+
+The results of this study may be published in peer reviewed scientific literature and/or presented at scientific meetings. The Sponsor will comply with the requirements for publication of study results in accordance with standard editorial and ethical practice and as per the Sponsor’s internal policy. Authorship will be determined by mutual agreement and in line with International Committee of Medical Journal Editors (ICMJE) authorship requirements.
+
+Appendix 2: Clinical laboratory tests
+
+The tests detailed in Table 8 will be performed by the local laboratory.
+
+Local laboratory results are only required in the event that the central laboratory results are not available in time for either study intervention administration and/or response evaluation. If a local sample is required, it is important that the sample for central analysis is obtained at the same time. Additionally, if the local laboratory results are used to make either a study intervention decision or response evaluation, the results must be recorded.
+
+Protocol-specific requirements for inclusion or exclusion of participants are detailed in Section 5 of the protocol.
+
+Additional tests may be performed at any time during the study as determined necessary by the Investigator or required by local regulations.
+
+Investigators must document their review of each laboratory safety report.
+
+Table 8	Protocol-required safety laboratory tests
+
+Appendix 3: AEs and SAEs: Definitions and procedures for recording, evaluating, follow-up, and reporting
+
+Definition of AE
+
+Definition of SAE
+
+Definition of CV events
+
+Definition of TEAE
+
+Recording, assessment and follow-up of AE, SAE, and pregnancies
+
+AE and SAE recording
+
+When an AE/SAE occurs, it is the responsibility of the Investigator to review all documentation (e.g., hospital progress notes, laboratory reports, and diagnostics reports) related to the event.
+
+The Investigator will then record all relevant AE/SAE information.
+
+It is not acceptable for the Investigator to send photocopies of the participant’s medical records to Sponsor/CRO in lieu of completion of the required form.
+
+There may be instances when copies of medical records for certain cases are requested by Sponsor/CRO. In this case, all participant identifiers, with the exception of the participant number, will be redacted on the copies of the medical records before submission to Sponsor/CRO.
+
+The Investigator will attempt to establish a diagnosis of the event based on signs, symptoms, and/or other clinical information. Whenever possible, the diagnosis (not the individual signs/symptoms) will be documented as the AE/SAE.
+
+Assessment of intensity
+
+The Investigator will make an assessment of intensity for each AE, and SAE reported during the study and assign it to one of the following categories:
+
+Mild:
+A type of AE that is usually transient and may require only minimal treatment or therapeutic intervention. The event does not generally interfere with usual activities of daily living.
+
+Moderate: 
+A type of AE that is usually alleviated with additional specific therapeutic intervention. The event interferes with usual activities of daily living, causing discomfort but poses no significant or permanent risk of harm to the research participant.
+
+Severe: 
+A type of AE that interrupts usual activities of daily living, or significantly affects clinical status, or may require intensive therapeutic intervention.
+
+Assessment of causality
+
+The Investigator is obligated to assess the relationship between study intervention and each occurrence of each AE/SAE. The Investigator will use clinical judgment to determine the relationship.
+
+A reasonable possibility of a relationship conveys that there are facts, evidence, and/or arguments to suggest a causal relationship, rather than a relationship cannot be ruled out.
+
+Alternative causes, such as underlying disease(s), concomitant therapy, and other risk factors, as well as the temporal relationship of the event to study intervention administration, will be considered and investigated.
+
+For causality assessment, the Investigator will also consult the IB and/or product information, for marketed products.
+
+The Investigator must review and provide an assessment of causality for each AE/SAE and document this in the medical notes There may be situations in which an SAE has occurred and the investigator has minimal information to include in the initial report to Sponsor/CRO. However, it is very important that the Investigator always make an assessment of causality for every event before the initial transmission of the SAE data to Sponsor/CRO.
+
+The Investigator may change their opinion of causality in light of follow-up information and send an SAE follow-up report with the updated causality assessment.
+
+The causality assessment is one of the criteria used when determining regulatory reporting requirements.
+
+Assessment of outcomes
+
+The Investigator will assess the outcome of all serious and nonserious unsolicited AEs recorded during the study as:
+
+Recovered/resolved
+
+Recovering/resolving
+
+Not recovered/not resolved
+
+Recovered with sequelae/resolved with sequelae
+
+Fatal (SAEs only).
+
+Follow-up of AEs, SAEs, pregnancies or any other events of interest
+
+The Investigator is obligated to perform or arrange for the conduct of supplemental measurements and/or evaluations as medically indicated or as requested by Sponsor to elucidate the nature and/or causality of the AE or SAE as fully as possible. This may include additional laboratory tests or investigations, histopathological examinations, or consultation with other health care professionals.
+
+New or updated information will be recorded in the originally submitted documents.
+
+The Investigator will submit any updated SAE data to Sponsor within 24 hours of receipt of the information.
+
+After the initial AE/SAE/pregnancy or any other event of interest, the Investigator is required to proactively follow each participant at subsequent visits/contacts. All SAEs (as defined in the Section 8.4.4), will be followed until the event is resolved, stabilized, otherwise explained, or the participant is lost to follow-up.
+
+Other nonserious AEs must be followed until or until the participant is lost to follow-up.
+
+Follow-up during the study
+
+AEs documented at a previous visit/contact and defined as not recovered/not resolved or recovering/resolving will be reviewed at subsequent visits/contacts until.
+
+If a participant dies during their participation in the study or during a recognized follow-up period, GSK will be provided with any available postmortem findings, including histopathology.
+
+Follow-up of pregnancies
+
+Pregnant participants will be followed to determine the outcome of the pregnancy. At the end of the pregnancy, whether full-term or premature, information on the status of the mother and child will be forwarded to GSK using the electronic pregnancy report and the AE Report if applicable. Generally, the follow-up period does not need to be longer than 6 to 8 weeks after the estimated date of delivery.
+
+Regardless of the reporting period for SAEs in this study, if the pregnancy outcome is an SAE, it should always be reported as such.
+
+Furthermore, the Investigator must report any SAE occurring as a result of a poststudy pregnancy that is considered by the Investigator to be reasonably related to the study intervention, to GSK as described in the Section 10.3.7.7.
+
+Updating of SAE, and pregnancy information after removal of write access to the participant’s eCRF
+
+When additional SAE or pregnancy information is received after write access to the participant’s eCRF is removed, new or updated information should be recorded on the appropriate paper report, with all changes signed and dated by the Investigator. The updated report should be sent to the Study contact for reporting SAEs (refer to Section 8.4.3).
+
+Reporting of SAEs, and pregnancies
+
+SAE Reporting via an Electronic Data Collection Tool
+
+The primary mechanism for reporting an SAE will be the electronic data collection tool.
+
+If the electronic system is unavailable, then the site will use the paper SAE data collection tool (see next section) to report the event within 24 hours.
+
+The site will enter the SAE data into the electronic system as soon as it becomes available.
+
+After the study is completed at a given site, the electronic data collection tool will be taken offline to prevent the entry of new data or changes to existing data.
+
+If a site receives a report of a new SAE from a study participant or receives updated data on a previously reported SAE after the electronic data collection tool has been taken offline, then the site can report this information on a paper SAE form (see next section) or to the GSK Medical Monitor by telephone.
+
+If the site during the course of the study or poststudy becomes aware of any serious, nonserious AEs, pregnancy exposure, related to any GSK non-IMP they will report these events to GSK or to the concerned competent authority via the national spontaneous reporting system.  These will be classified as spontaneous individual case safety reports.
+
+Contacts for SAE reporting can be found in Section 8.4.8.
+
+SAE Reporting via Paper Data Collection Tool
+
+Email/facsimile transmission of the SAE paper data collection tool is the preferred method to transmit this information to the Sponsor’s Medical Monitor.
+
+In rare circumstances and in the absence of email/facsimile equipment, notification by telephone is acceptable with a copy of the SAE data collection tool sent by overnight mail or courier service.
+
+Initial notification via telephone does not replace the need for the Investigator to complete and sign the SAE data collection tool within the designated reporting timeframes.
+
+Contacts for SAE reporting can be found in Section 8.4.8.
+
+Appendix 4: Contraceptive and barrier guidance
+
+Definitions
+
+Woman of Childbearing Potential (WOCBP)
+
+Women in the following categories are considered WOCBP (fertile):
+
+Adolescents of childbearing potential: Tanner stage ≥2 (post-thelarche) irrespective of the occurrence of menarche or following menarche.
+
+From the time of menarche until becoming postmenopausal unless permanently sterile (see below)
+
+Note: Menarche is the first onset of menses in a young female. Menarche is normally preceded by several changes associated with puberty including breast development and pubic hair growth.
+
+Woman of Nonchildbearing Potential (WONCBP)
+
+Women in the following categories are considered WONCBP:
+
+Premenarchal: Tanner stage 1 (prepubertal)
+
+Permanently sterile due to one of the following procedures:
+
+Documented hysterectomy
+
+Documented bilateral salpingectomy
+
+Documented bilateral oophorectomy
+
+For permanently sterile individuals due to an alternate medical cause other than the above, (e.g., Mullerian agenesis, androgen insensitivity, gonadal dysgenesis), Investigator discretion should be applied to determining study entry. If reproductive status is questionable, additional evaluation should be considered.
+
+Note: Documentation can come from the site personnel’s review of the participant’s medical records, medical examination, or medical history interview.
+
+Postmenopausal female
+
+A postmenopausal state is defined as no menses for 12 months without an alternative medical cause.
+
+A high follicle stimulating hormone (FSH) level in the postmenopausal range may be used to confirm a postmenopausal state in women not using hormonal contraception or hormonal replacement therapy (HRT). However, in the absence of 12 months of amenorrhea, confirmation with more than one FSH measurement if required (>40 IU/L or mIU/mL) or remove to allow for flexibility with different local thresholds for defining postmenopausal state is required.
+
+Females on HRT and whose menopausal status is in doubt must discontinue HRT to allow confirmation of postmenopausal status before study enrolment.
+
+Contraception guidance
+
+Patients of childbearing potential and participants with partners of childbearing potential must agree to practice highly effective contraception plus one barrier method during their participation in the study and after the last dose of paroxetine or longer if determined by country requirement.  Female patients must use contraception for at least 2 months before screening, up to the final follow up visit.  Patients must refrain from donating sperm during their participation in the study and following last dose.
+
+Highly effective forms of contraception
+
+Highly effective forms of contraception include one or more of the following:
+
+Male partner who is sterile (medically effective vasectomy) prior to the female participant’s entry into the study and is the sole sexual partner for the female participant
+
+Combined (estrogen and progestogen-containing) hormonal contraception associated with inhibition of ovulation (oral, intravaginal or transdermal)
+
+Progestogen-only hormonal contraception associated with inhibition of ovulation (oral, intravaginal or transdermal)
+
+An intrauterine device
+
+Bilateral tubal occlusion
+
+Barrier methods of contraception:
+
+Barrier methods of contraception include:
+
+Condom or occlusive cap (diaphragm or cervical/vault caps) with spermicidal foam/gel/film/cream/vaginal suppository.
+
+Male patients must use barrier method during the study until final follow up visit.
+
+Childbearing potential
+
+Childbearing potential is defined as one of:
+
+<50 years of age unless amenorrheic for at least 12 months following the cessation of exogenous hormonal treatments, and have serum follicle-stimulating hormone and luteinizing hormone levels in the postmenopausal range for the institution.
+
+≥50 years of age and has had menses within 12 months following cessation of all exogenous hormonal treatments.
+
+Not irreversibly surgically sterilized by hysterectomy, bilateral oophorectomy, or bilateral salpingectomy.
+
+Appendix 5: Protocol Elements for Redaction
+
+This appendix contains Company Confidential Information and Protected Personal Data that the Sponsor has chosen to be redacted.
+
+Information about Sponsor Signatory and Medical Monitor
+
+Sponsor Signatory:
+
+Medical Monitor Name and Contact Information:
+
+Dr. Sanman Ghorpade
+
+Contact number: +91 99302 12218
+
+Email: sanman.a.ghorpade@gsk.com
+
+List of Study Staff
+
+REFERENCES
+
+Funk KA, Bostwick JR. A comparison of the risk of QT prolongation among SSRIs. Ann Pharmacother. 2013 Oct;47(10):1330-41.
+
+Garnett C, Bonate PL, Dang Q, Ferber G, Huang D, Liu J, Mehrotra D, Riley S, Sager P, Tornoe C, Wang Y. Scientific white paper on concentration-QTc modeling. J Pharmacokinet Pharmacodyn. 2018 Jun;45(3):383-397.
+
+Latham T and Morton N, 29060/086. A controlled, double-blind, randomised, parallel group study comparing the effects of paroxetine and maprotiline in the treatment of out-patients with major and minor depression. 1993.
+
+Okayasu H, Ozeki Y, Fujii K, Takano Y, Saeki Y, Hori H, Horie M, Higuchi T, Kunugi H, Shimoda K. Pharmacotherapeutic determinants for QTc interval prolongation in Japanese patients with mood disorder. Pharmacopsychiatry. 2012 Nov;45(7):279-83.
+
+Seroxat [SmPC; Summary of Product Characteristics]. Brentford, UK: GSK; 2022.
+
+APPENDIX
+
+Appendix 1: Exclusion Criteria Allowed for Rescreening
+
+Table 9	Exclusion Criteria Allowed for Rescreening
+
+Appendix 2: Sample Size Determination Section
+
+The sensitivity of the probability of correctly determining a QTc prolonging effect is calculated with respect to different sample sizes (20, 30, 36, 46, 56) and assuming true effect as 0 msec, 5 msec, and 10 msec.
+
+Table 10	Sample Size Sensitivity without dropout
+
+The sensitivity of the probability of correctly determining a QTc prolonging effect is calculated with respect to different sample sizes (20, 30, 36, 46, 56) and assuming true effect as 0 msec, 5 msec, and 10 msec. Additionally, it incorporates a 20% drop out at the 40 mg dose and another 25% drop out at the 60 mg dose (in addition to the drop out at the 40mg dose).
+
+Table 11	Sample Size Sensitivity after drop-out
+
